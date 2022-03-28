@@ -1,6 +1,6 @@
 ## Hey! I'm Jonathan 🤘
 
-I'm a Computer Science Trainee 👨‍💻 who have a passion for cybersecurity (ethical hacking), AI, VR, Robotics and being part of the upcoming web 3.0 with blockchain technology a.k.a the fourth industrial revolution.
+I'm a Computer Science Trainee 👨‍💻 who have a passion for cybersecurity (ethical hacking), AI, Robotics and being part of the upcoming web 3.0 with blockchain technology a.k.a the fourth industrial revolution.
 
 I love ideas and being part of those who manage to carry them out. In my free time I like to do extreme sports and philosophize.
 <!--
