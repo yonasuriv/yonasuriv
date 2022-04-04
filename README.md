@@ -31,5 +31,5 @@ Also, I've been working at @Google during the last two summers on a Software Eng
 
 ### Find me elsewhere 🌏
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub&logoColor=white&link=https://www.linkedin.com/in/jonasdirico/)](https://yonasuriv.github.io/)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonasdirico/)](https://www.linkedin.com/in/jonasdirico/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonasdirico/)](https://www.linkedin.com/in/yonadirico/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/yonasuriv)](https://twitter.com/yonasuriv) 
