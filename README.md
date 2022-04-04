@@ -4,8 +4,6 @@ I'm a Full Stack Developer currently working on the Web 3.0 with a passion for C
 
 Inspired by curiosity, that is what drives me. I am extremely passionate about technology and its correct use to improve the society. Always eager to learn, grow as a professional and as a person while doing my best to contribute to the world and to my colleagues.
 
-I’m excited by pursuing bold ideas, with particular interest in the opportunities facing many consumer brands today; innovation, sustainability and omni-channel strategies, making our way to the upcoming 
-
 I love ideas and being part of those who manage to carry them out. In my free time I like to do extreme sports and philosophize.
 
 <!--
