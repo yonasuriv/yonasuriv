@@ -21,7 +21,7 @@
 
 
 
-I'm a Full Stack Developer currently working on the Web 3.0 with a passion for Cybersecurity and Artificial Intelligence.
+I'm a Full Stack Developer currently working on the Web 3.0 with a penchant for Cybersecurity and Artificial Intelligence.
 
 Inspired by curiosity, that is what drives me. I am extremely passionate about technology and its correct use to improve the society.        
 Always eager to learn, grow as a professional and as a person while doing my best to contribute to the world and to my colleagues.
