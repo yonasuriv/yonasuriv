@@ -35,5 +35,6 @@ I love ideas and being part of those who manage to carry them out. In my free ti
 
 ### Find me elsewhere 🌏
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub&logoColor=white&link=https://www.linkedin.com/in/jonasdirico/)](https://yonasuriv.github.io/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/yonasuriv)](https://twitter.com/yonasuriv)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonasdirico/)](https://www.linkedin.com/in/yonadirico/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/yonasuriv)](https://twitter.com/yonasuriv) 
+
