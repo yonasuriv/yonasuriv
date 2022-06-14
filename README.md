@@ -4,7 +4,7 @@
 
    <br>
    <p align="center">
-          <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=#F8003A&center=true&width=410&height=45&lines=Are+you+a+one+or+a+zero?">
+          <image src="https://readme-typing-svg.herokuapp.com?color=F8003A&lines=Are+you+a+one+or+a+zero%3F">
               </p>
     <p align="right"><strong><samp>」</samp></strong></p>
 
