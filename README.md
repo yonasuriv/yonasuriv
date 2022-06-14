@@ -4,7 +4,7 @@
 
    <br>
    <p align="center">
-          <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=a4f00e&center=true&width=410&height=45&lines=Are+you+a+one+or+a+zero?">
+          <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=#F8003A&center=true&width=410&height=45&lines=Are+you+a+one+or+a+zero?">
               </p>
     <p align="right"><strong><samp>」</samp></strong></p>
 
@@ -21,9 +21,9 @@ I love ideas and being part of those who manage to carry them out. In my free ti
 <br>
         <br>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yonasuriv" alt="yonasuriv" /></a> </p>
+<p align="center"> <a href=""><img src="https://github-profile-trophy.vercel.app/?username=yonasuriv" alt="yonasuriv" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/yonasuriv" target="blank"><img src="https://img.shields.io/twitter/follow/yonasuriv?logo=twitter&style=for-the-badge" alt="yonasuriv" /></a> </p>
+<p align="center"> <a href="https://twitter.com/yonasuriv" target="blank"><img src="https://img.shields.io/twitter/follow/yonasuriv?logo=twitter&style=for-the-badge" alt="yonasuriv" /></a> </p>
 
 - 📝 Know me more at my personal Website [www.yonasuriv.com](www.yonasuriv.com)
 
@@ -75,4 +75,5 @@ I love ideas and being part of those who manage to carry them out. In my free ti
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/yonasuriv)](https://twitter.com/yonasuriv)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonasdirico/)](https://www.linkedin.com/in/yonadirico/)
 [![Website Badge](https://img.shields.io/badge/Website-yonasuriv-success)](https://www.yonasuriv.com)
+
 
