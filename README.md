@@ -18,14 +18,15 @@
 
 I'm a **Software Engineer** and **Cybersecurity** Student inspired by curiosity, that's what drives me.
 
-I'm extremely passionate about technology and the future, in the constant search for **creativity** and **innovation**, under the foundations of **privacy** and **freedom**.
+I'm extremely passionate about technology and the future, in the constant search for **creativity** and **innovation**, 
+under the foundations of **privacy** and **freedom**.
 
 Always eager to learn, and grow as a professional and as a person while doing my best to contribute to the world and to my colleagues.
 
-- 🔭 I’m currently studying Computer Science at **Danmarks Tekniske Universitet**.
-- Doing courses at **Platzi** and **FreeCodeCamp** and Training on **HackTheBox** and **CodeWars**
-- 📚 I enjoy learning full-stack development focusing on the Frontend.
-- 👯 I love ideas and being part of those who manage to carry them out.
+- 🧑‍🔬 I’m currently studying Computer Science at **Danmarks Tekniske Universitet**.
+- 📖 Doing courses at **Platzi** and **FreeCodeCamp** and Training on **HackTheBox** and **CodeWars**.
+- 💡 I love ideas and being part of those who manage to carry them out.
+- 🔓 Open for Internships & Partnerships
 
 
    [![Gmail](https://img.shields.io/badge/yonasuriv-000000?style=for-the-badge&logo=&logoColor=white)](mailto:dev@yonasuriv.com) [![Twitter](	https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/LesterObedPaz) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/obed-paz-5b1379207/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lesterpaz99@gmail.com)
