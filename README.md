@@ -23,7 +23,7 @@ Always eager to learn, and grow as a professional and as a person while doing my
 - 📚 I enjoy learning full-stack development focusing on the Frontend.
 - 👯 I love ideas and being part of those who manage to carry them out.
 
-
+<br><br>
    [![Gmail](https://img.shields.io/badge/yonasuriv-000000?style=for-the-badge&logo=&logoColor=white)](https://www.yonasuriv.com) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yonadirico) [![Twitter](	https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yonasuriv) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yonadirico/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev@yonasuriv.com) 
 
 <!--
