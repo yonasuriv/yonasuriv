@@ -18,9 +18,8 @@ I'm extremely passionate about technology and the future, in the constant search
 Always eager to learn, and grow as a professional and as a person while doing my best to contribute to the world and to my colleagues.
 
 
-- 🔭 I’m currently studying Computer Science at **Danmarks Tekniske Universitet**.
-- Doing courses at **Platzi** and **FreeCodeCamp** and Training on **HackTheBox** and **CodeWars**
-- 📚 I enjoy learning full-stack development focusing on the Frontend.
+- 🧑‍🔬 I’m currently studying Computer Science at **Danmarks Tekniske Universitet**.
+- 📖 Doing courses at **Platzi** and **FreeCodeCamp** and Training on **HackTheBox** and **CodeWars**
 - 👯 I love ideas and being part of those who manage to carry them out.
 
 <br><br>
