@@ -10,14 +10,13 @@
               </p>
     <p align="right"><strong><samp>」</samp></strong></p>
 
------
+
 I'm a **Software Engineer** and **Cybersecurity** Student inspired by curiosity, that's what drives me.
 
-I'm extremely passionate about technology and the future, in the constant search for **creativity** and **innovation**, under the foundations of **privacy** and **freedom**.
+I'm extremely passionate about technology and the future, in the constant search for **creativity** and **innovation**, <br>under the foundations of **privacy** and **freedom**.
 
 Always eager to learn, and grow as a professional and as a person while doing my best to contribute to the world and to my colleagues.
 
------
 
 - 🔭 I’m currently studying Computer Science at **Danmarks Tekniske Universitet**.
 - Doing courses at **Platzi** and **FreeCodeCamp** and Training on **HackTheBox** and **CodeWars**
