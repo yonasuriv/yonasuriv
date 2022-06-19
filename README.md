@@ -1,4 +1,5 @@
 
+
 <!-- Profile -->
 
 
@@ -10,6 +11,10 @@
               </p>
     <p align="right"><strong><samp>」</samp></strong></p>
 
+### Contact me  🌏
+   [![Gmail](https://img.shields.io/badge/yonasuriv-000000?style=for-the-badge&logo=&logoColor=white)](https://www.yonasuriv.com) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yonadirico) [![Twitter](	https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yonasuriv) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yonadirico/) [![Mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev@yonasuriv.com) 
+
+<!--
 
 I'm a **Software Engineer** and **Cybersecurity** Student inspired by curiosity, that's what drives me.
 
@@ -22,10 +27,6 @@ Always eager to learn, and grow as a professional and as a person while doing my
 - 📖 Doing courses at **Platzi** and **FreeCodeCamp** and Training on **HackTheBox** and **CodeWars**
 - 👯 I love ideas and being part of those who manage to carry them out.
 
-<br><br>
-   [![Gmail](https://img.shields.io/badge/yonasuriv-000000?style=for-the-badge&logo=&logoColor=white)](https://www.yonasuriv.com) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yonadirico) [![Twitter](	https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yonasuriv) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yonadirico/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev@yonasuriv.com) 
-
-<!--
 <br>
         <br>
 <h3 align="left">Stats</h3>
@@ -68,7 +69,7 @@ Always eager to learn, and grow as a professional and as a person while doing my
 <h3 align="left">Support</h3>
 <p><a href="https://www.buymeacoffee.com/yonasuriv"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="yonasuriv" /></a><a href="https://ko-fi.com/yonasuriv">  <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="yonasuriv" /></a></p><br><br><br>
 
-### Contact me  🌏
+
 
 
 
