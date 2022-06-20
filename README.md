@@ -7,7 +7,7 @@
 <p align="left"><strong><samp>「</samp></strong></p>
    <br>
    <p align="center">
-          <image src="https://readme-typing-svg.herokuapp.com?color=F8003A&lines=Are+you+a+one+or+a+zero%3F">
+          <image src="https://readme-typing-svg.herokuapp.com?color=3F898D&lines=Are+you+a+one+or+a+zero%3F">
               </p>
     <p align="right"><strong><samp>」</samp></strong></p>
 
