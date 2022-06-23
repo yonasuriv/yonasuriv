@@ -1,5 +1,6 @@
 <!-- Dev Card -->
-<a href="https://api.daily.dev/get?r=yonasuriv" target="_blank">
+<!-- https://api.daily.dev/get?r=yonasuriv // Referral Code for DailyDev (Under Construction) -->
+<a href="https://www.yonasuriv.com" target="_blank">
     <img
       width="256"
       align="right"
