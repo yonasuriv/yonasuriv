@@ -4,7 +4,8 @@
     <img
       width="256"
       align="right"
-      src="https://api.daily.dev/devcards/1f939cacc88740d7bbc0da3818c0c784.png"
+      src="https://https://github.com/yonasuriv/yonasuriv/blob/main/devcard.svg"
+      alt="Jonathan Di Rico (yonasuriv) Developer Card"
     />
   </a>
 </div>
