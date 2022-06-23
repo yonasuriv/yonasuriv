@@ -12,7 +12,9 @@
 <!-- About -->
 
 ### About
-I'm an Inquisitive Developer and a Computer Science student with Security, Cryptography and Artificial Intelligence leanings by trade. Always eager to learn and grow as a professional and as a person while doing my best to contribute to my colleagues and the world.
+I'm an Inquisitive Developer and a Computer Science Student.  
+With heavy interest in Full-Stack Development, Cybersecurity, Cryptography and Artificial Intelligence fields.  
+Always eager to learn and grow as a professional and as a person while doing my best to contribute to my colleagues and the world.
 
 <!-- Contact -->
 ### Contact me 
