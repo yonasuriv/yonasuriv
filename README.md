@@ -6,6 +6,9 @@
           <image src="https://readme-typing-svg.herokuapp.com?color=3F898D&lines=Are+you+a+one+or+a+zero%3F">
               </p>
     <p align="right"><strong><samp>」</samp></strong></p>
+
+<!-- Dev Card -->    
+<a href="https://app.daily.dev/yonasuriv"><img src="https://api.daily.dev/devcards/1f939cacc88740d7bbc0da3818c0c784.png?r=aa0" width="400" alt="Alpha's Dev Card"/></a>
     
 ### About
 I'm an Inquisitive Developer and a Computer Science student with Security, Cryptography and Artificial Intelligence leanings by trade. Always eager to learn and grow as a professional and as a person while doing my best to contribute to my colleagues and the world.
