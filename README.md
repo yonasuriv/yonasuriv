@@ -16,11 +16,12 @@ I'm an Inquisitive Developer and a Computer Science Student.
 Always eager to learn and grow as a professional and as a person while doing my best to contribute to my colleagues and the world.
 
 ### Interests
-Extremely appasionate about Technology, Science and Philosophy  
-These are currently the fields I'm more in touch with
+Extremely appasionate about Technology, Science and Philosophy.  
+These are the fields I like most:
 - Full-Stack Development and Software Engineering
-- Cybersecurity and Cryptography 
 - Artificial Intelligence and Machine Learning
+- Cybersecurity and Cryptography 
+- Blockchain
 
 
 <!-- Contact -->
