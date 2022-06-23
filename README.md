@@ -12,9 +12,16 @@
 <!-- About -->
 
 ### About
-I'm an Inquisitive Developer and a Computer Science Student.  
-With heavy interest in Full-Stack Development, Cybersecurity, Cryptography and Artificial Intelligence fields.  
+I'm an Inquisitive Developer and a Computer Science Student.   
 Always eager to learn and grow as a professional and as a person while doing my best to contribute to my colleagues and the world.
+
+### Interests
+These are currently the fields I like to learn the most
+- Full-Stack Development, 
+- Cybersecurity, 
+- Cryptography and 
+- Artificial Intelligence.
+Altought my interests are vast
 
 <!-- Contact -->
 ### Contact me 
