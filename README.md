@@ -8,8 +8,7 @@
     <p align="right"><strong><samp>」</samp></strong></p>
     
 ### About
-I'm an Inquisitive Developer and a Computer Science student,
-With Security, Cryptography and Artificial Intelligence leanings by trade. Constantly learning to contribute the world, while growing as a person and as a professional.
+I'm an Inquisitive Developer and a Computer Science student with Security, Cryptography and Artificial Intelligence leanings by trade. Constantly learning to contribute the world, while growing as a person and as a professional.
 
 ### Contact me 
    [![Gmail](https://img.shields.io/badge/website-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://www.yonasuriv.com) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yonadirico) [![Twitter](	https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yonasuriv) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yonadirico/) [![Mail](https://img.shields.io/badge/Email-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:dev@yonasuriv.com) 
