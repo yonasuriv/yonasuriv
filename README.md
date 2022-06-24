@@ -6,6 +6,7 @@
       align="right"
       src="https://github.com/yonasuriv/yonasuriv/blob/main/devcard.svg"
       alt="Jonathan Di Rico (yonasuriv) Developer Card"
+      target="_blank"
     />
   </a>
 </div>
