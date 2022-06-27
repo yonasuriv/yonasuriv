@@ -20,19 +20,21 @@ Extremely passionate about Technology, Science and Philosophy.
 These are the fields I like most:
 - Full-Stack Development and Software Engineering
 - Artificial Intelligence and Machine Learning
-- Cybersecurity and Cryptography 
+- Cybersecurity
+- Cryptography 
 - Blockchain
 
 
 ### Technologies
-1. Data Base - SQL and NoSQL (MongoDB)
-3. Back End - ExpresJS and NodeJS
-4. Virtualization - Docker
-5. Web Development - HTML5, CSS3, JavaScript, PHP, WordPress, Shopify)  
-6. Software Development - Shell Scripting, Python
-7. Mobile Applications - Flutter.  
-8. Internet Marketing - S.E.O & AdSense
-9. Graphic Design - Figma
+1. Data Base - **SQL** and **NoSQL** (MongoDB)
+2. Front-end - **ReactJS**
+3. Back-end - **ExpresJS** and **NodeJS**
+4. Virtualization - **Docker**
+5. Web Development - **HTML5**, **CSS3**, **JavaScript**, **PHP**, **WordPress**)  
+6. Software Development - **Shell Scripting**, **Python**
+7. Mobile Applications - **Flutter**. 
+8. Internet Marketing - **S.E.O** & **AdSense**
+9. Graphic Design - **Figma**
 
 <!-- Badges 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)   
