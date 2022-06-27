@@ -14,6 +14,16 @@
 ### About
 I'm an Inquisitive Developer and a Computer Science Student.   
 Always eager to learn and grow as a professional and as a person while doing my best to contribute to my colleagues and the world.
+### Technologies
+1. Data Base - **SQL** and **NoSQL** (MongoDB)
+2. Front-end - **ReactJS**
+3. Back-end - **ExpresJS** and **NodeJS**
+4. Virtualization - **Docker**
+5. Web Development - **HTML5**, **CSS3**, **JavaScript**, **PHP**, **WordPress**
+6. Software Development - **Shell Scripting** and **Python**
+7. Mobile Applications - **Flutter**
+8. Internet Marketing - **S.E.O** and **AdSense**
+9. Graphic Design - **Figma**
 
 ### Interests
 Extremely passionate about Technology, Science and Philosophy.  
@@ -23,18 +33,6 @@ These are the fields I like most:
 - Cybersecurity
 - Cryptography 
 - Blockchain
-
-
-### Technologies
-1. Data Base - **SQL** and **NoSQL** (MongoDB)
-2. Front-end - **ReactJS**
-3. Back-end - **ExpresJS** and **NodeJS**
-4. Virtualization - **Docker**
-5. Web Development - **HTML5**, **CSS3**, **JavaScript**, **PHP**, **WordPress**)  
-6. Software Development - **Shell Scripting**, **Python**
-7. Mobile Applications - **Flutter**. 
-8. Internet Marketing - **S.E.O** & **AdSense**
-9. Graphic Design - **Figma**
 
 <!-- Badges 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)   
