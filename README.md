@@ -26,8 +26,7 @@ Always eager to learn and grow as a professional and as a person while doing my 
 9. Graphic Design - **Figma**
 
 ### Interests
-Extremely passionate about Technology, Science and Philosophy.  
-These are the fields I like most:
+Extremely passionate about Technology, Science and Philosophy. These are the fields I like most:
 - Full-Stack Development and Software Engineering
 - Artificial Intelligence and Machine Learning
 - Cybersecurity
