@@ -14,16 +14,13 @@
 ### About
 I'm an Inquisitive Developer and a Computer Science Student.   
 Always eager to learn and grow as a professional and as a person while doing my best to contribute to my colleagues and the world.
+
 ### Technologies
-1. Data Base - **SQL** and **NoSQL** (MongoDB)
-2. Front-end - **ReactJS**
-3. Back-end - **ExpresJS** and **NodeJS**
-4. Virtualization - **Docker**
-5. Web Development - **HTML5**, **CSS3**, **JavaScript**, **PHP**, **WordPress**
-6. Software Development - **Shell Scripting** and **Python**
-7. Mobile Applications - **Flutter**
-8. Internet Marketing - **S.E.O** and **AdSense**
-9. Graphic Design - **Figma**
+1. Virtualization - **Docker**
+2. Web Development - **HTML5**, **CSS3**, **JavaScript**, **PHP**, **WordPress**, **MongoDB** (NoSQL), **ExpressJS**, **ReactJS**, **NodeJS**
+3. Software Development - **Shell Scripting** and **Python**
+4. Mobile Applications - **Flutter**
+5. Graphic Design - **Figma**
 
 ### Interests
 Extremely passionate about Technology, Science and Philosophy. These are the fields I like most:
