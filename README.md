@@ -17,7 +17,8 @@ Always eager to learn and grow as a professional and as a person while doing my 
 
 ### Technologies
 1. Virtualization - **Docker**
-2. Web Development - **HTML5**, **CSS3**, **JavaScript**, **PHP**, **WordPress**, **MongoDB** (NoSQL), **ExpressJS**, **ReactJS**, **NodeJS**
+2. Web Development - **HTML5**, **CSS3**, **JavaScript**, **PHP**, **WordPress**,  
+**MongoDB** (NoSQL), **ExpressJS**, **ReactJS**, **NodeJS**
 3. Software Development - **Shell Scripting** and **Python**
 4. Mobile Applications - **Flutter**
 5. Graphic Design - **Figma**
