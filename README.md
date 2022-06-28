@@ -16,12 +16,13 @@ I'm an Inquisitive Developer and a Computer Science Student.
 Always eager to learn and grow as a professional and as a person while doing my best to contribute to my colleagues and the world.
 
 ### Technologies
-1. Virtualization - **Docker**
-2. Web Development - **HTML5**, **CSS3**, **JavaScript**, **PHP**, **WordPress**,  
+1. Web Development - **HTML5**, **CSS3**, **JavaScript**, **PHP**, **WordPress**,  
    **MongoDB** (NoSQL), **ExpressJS**, **ReactJS**, **NodeJS**
-3. Software Development - **Shell Scripting** and **Python**
-4. Mobile Applications - **Flutter**
-5. Graphic Design - **Figma**
+2. Software Development - **Shell Scripting** and **Python**
+3. Mobile Applications - **Flutter**
+4. Graphic Design - **Figma**
+5. Virtualization - **Docker**
+6. Version Control - **Git** and **GitHub**
 
 ### Interests
 Extremely passionate about Technology, Science and Philosophy. These are the fields I like most:
