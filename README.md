@@ -12,8 +12,16 @@
 </div>
 
 ### About
-I'm an Inquisitive Developer and a Computer Science Student.   
-Always eager to learn and grow as a professional and as a person while doing my best to contribute to my colleagues and the world.
+I’m a Computer Science Student inspired by Curiosity, that’s what drives me. 
+I’m currently focusing on Full-Stack Development and Cybersecurity.
+
+I really believe that fiction surpasses reality, and what you can imagine, you can create.
+And that makes me be in the constant search for creativity, innovation and drive a positive change in the future, under the foundations of privacy and freedom.
+
+Adrenaline hunter, all the time looking for new experiences and adventures.
+Always eager to learn and grow as a professional and as a person while doing my best to contribute to the world.
+
+I love ideas and being part of those who manage to carry them out.
 
 ### Technologies
 1. Web Development - **HTML5**, **CSS3**, **JavaScript**, **PHP**, **WordPress**,  
