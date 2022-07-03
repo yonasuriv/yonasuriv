@@ -26,9 +26,10 @@ Always eager to **learn** and grow as a professional and as a person while doing
 
 **I love ideas and being part of those who manage to carry them out**.
 
+<!--
+### Profile View Counter
 ![](https://komarev.com/ghpvc/?username=yonasuriv&color=dc143c&style=for-the-badge)
 
-<!--
 ### Technologies
 1. Web Development - **HTML5**, **CSS3**, **JavaScript**, **PHP**, **WordPress**,  
    **MongoDB** (NoSQL), **ExpressJS**, **ReactJS**, **NodeJS**
