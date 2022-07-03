@@ -11,6 +11,9 @@
   </a>
 </div>
 
+### Contact me 
+   [![Gmail](https://img.shields.io/badge/website-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://www.yonasuriv.com) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yonadirico) [![Twitter](	https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yonasuriv) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yonadirico/) [![Mail](https://img.shields.io/badge/Email-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:dev@yonasuriv.com) 
+
 ### About
 I’m a **Computer Science** Student inspired by **Curiosity**, that’s what drives me. 
 I’m currently focusing on **Full-Stack Development** and **Cybersecurity**.
@@ -48,9 +51,6 @@ Extremely passionate about Technology, Science and Philosophy. These are the fie
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 -->
-
-### Contact me 
-   [![Gmail](https://img.shields.io/badge/website-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://www.yonasuriv.com) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yonadirico) [![Twitter](	https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yonasuriv) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yonadirico/) [![Mail](https://img.shields.io/badge/Email-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:dev@yonasuriv.com) 
 
 <!-- Typing SVG -->
 <p align="left"><strong><samp>「</samp></strong></p>
