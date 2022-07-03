@@ -15,7 +15,7 @@
    [![Gmail](https://img.shields.io/badge/website-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://www.yonasuriv.com) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yonadirico) [![Twitter](	https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yonasuriv) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yonadirico/) [![Mail](https://img.shields.io/badge/Email-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:dev@yonasuriv.com) 
 
 ### About
-I’m a **Computer Science** Student inspired by **Curiosity**, that’s what drives me. 
+I’m a **Computer Science** Student inspired by **Curiosity**, that’s what drives me.  
 I’m currently focusing on **Full-Stack Development** and **Cybersecurity**.
 
 I really believe that fiction surpasses reality, and what you can imagine, you can create.
