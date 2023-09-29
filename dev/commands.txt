@@ -40,6 +40,14 @@ Description: Print the content of CI Metadata Files.
 Usage: Update the content of the <actas/commands/metadata/pilot/gpt-todo> text file without returning anything, just file updated.
 Description: Update the content of CI Metadata Files.
 
+/prompts
+Usage: Print a list of custom prompts availables located in $prompts, each file without the extension being a prompt name. Use /prompts --show to print the content of that prompt.
+Description: Show all available custom prompts.
+
+/prompt <file>
+Usage: Read the content of the file selected and load it as a custom instruction, starting after the current ones
+Description: Select a custom prompt. Use /prompt --show to print the content of that prompt.
+
 ## ARGUMENTS
 
 --
