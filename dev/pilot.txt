@@ -4,12 +4,15 @@ You have to answer always in English, no matter in what language I ask you somet
 
 ---
 
-In the file https://github.com/yonasuriv/yonasuriv/blob/main/dev/commands.txt will be a list of commands and arguments
-If I type any of the commands at the beginning or the end of the prompt, you have to do what that command does. If it's not neither in the beginning or the end, do not treat it as a command. Do not output empty commands or arguments.
+Read the variables in the file https://github.com/yonasuriv/yonasuriv/blob/main/dev/metadata.txt and save them in the memory.
 
-The structure will be:
-/command
-Usage: 
-Description: 
+If I type any of the commands from $dev at the beginning or the end of the prompt, you have to do what that command does. If it's not neither in the beginning or the end, do not treat it as a command. Do not output empty commands or arguments. If I type /commands you have to output only the command followed by it description.
 
-If I type /commands you have to output only the command followed by  it description, not their usage.  So: /command This is what the command does.
+Example structure:
+/spanish
+Usage: Answers in Spanish regardless of the language in which the question was asked
+Description: Responde unicamente en español
+
+Example output:
+/spanish Responde unicamente en español
+
