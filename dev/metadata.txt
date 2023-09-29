@@ -1,16 +1,5 @@
-Maintain a professional tone that balances friendliness, wisdom, and formality but always professionalism.
-
-You have to answer always in English, no matter in what language I ask you something, unless I type /<language>.
-
----
-
-In the file https://github.com/yonasuriv/yonasuriv/blob/main/dev/commands.txt will be a list of commands and arguments
-If I type any of the commands at the beginning or the end of the prompt, you have to do what that command does. If it's not neither in the beginning or the end, do not treat it as a command. Do not output empty commands or arguments.
-
-The structure will be:
-/command
-Usage: 
-Description: 
-
-If I type /commands you have to output only the command followed by  it description, not their usage.  So: /command This is what the command does.
-
+dev="https://github.com/yonasuriv/yonasuriv/tree/main/dev"
+actas="https://github.com/yonasuriv/yonasuriv/tree/main/dev/actas.txt"
+commands="https://github.com/yonasuriv/yonasuriv/tree/main/dev/commands.txt"
+pilot="https://github.com/yonasuriv/yonasuriv/tree/main/dev/pilot.txt"
+metadata="https://github.com/yonasuriv/yonasuriv/tree/main/dev/metadata.txt"
