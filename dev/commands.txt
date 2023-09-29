@@ -20,16 +20,26 @@ Description: Only answer what asked, nothing more.
 Usage: Write a guide with a step by step on how to perform the topic asked
 Description: Output a stept-by-step guide on how to perform something
 
-/actas 
-Usage: You have you output all the available modes of this gist raw file https://github.com/yonasuriv/yonasuriv/blob/main/dev/actas.txt that follow the line ## Act as AND nothing else, then I'll select one mode and you have to take what starts with >  as my prompt. /mode <mode> from that file to jump straight to that mode.
-Description: List all the avaialble modes for ChatGPT to transform into.
-
 /blank 
 Usage: Forget all the custom instructions given of who am I in the first box and act as they were all in blank (not the one containing the commands) 
 Description: Forget all the custom instructions except the commands.
 
+/prompts
+Usage: Print a list of custom prompts availables located in https://github.com/yonasuriv/yonasuriv/blob/main/dev/prompts, each file without the extension being a prompt name. Use /prompts --show to print the content of that prompt.
+Description: Show all available custom prompts.
+
+/prompt <file>
+Usage: Read the content of the file selected and load it as a custom instruction, starting after the current ones
+Description: Select a custom prompt. Use /prompt --show to print the content of that prompt.
+
+/actas 
+Usage: You have you output all the available modes of this gist raw file https://github.com/yonasuriv/yonasuriv/blob/main/dev/actas.txt that follow the line ## Act as AND nothing else, then I'll select one mode and you have to take what starts with >  as my prompt. /mode <mode> from that file to jump straight to that mode.
+Description: List all the avaialble modes for ChatGPT to transform into.
+
+---
+
 /ls
-Usage: Print the number of custom files created (actas/commands/metadata/pilot/gpt-todo), if any of those are empty, print it in bold.
+Usage: Print the number of custom files created (actas/commands/metadata/pilot/gpt-todo), if any of those are empty, print it in cursive.
 Description: Print the amount of CI Metadata Files created.
 
 /cat <file>
@@ -37,19 +47,5 @@ Usage: Print the content of the <actas/commands/metadata/pilot/gpt-todo> text fi
 Description: Print the content of CI Metadata Files.
 
 /update <file>
-Usage: Update the content of the <actas/commands/metadata/pilot/gpt-todo> text file without returning anything, just file updated.
+Usage: Update the content of the <actas/commands/metadata/pilot/gpt-todo> text file without returning anything, just file updated
 Description: Update the content of CI Metadata Files.
-
-/prompts
-Usage: Print a list of custom prompts availables located in $prompts, each file without the extension being a prompt name. Use /prompts --show to print the content of that prompt.
-Description: Show all available custom prompts.
-
-/prompt <file>
-Usage: Read the content of the file selected and load it as a custom instruction, starting after the current ones
-Description: Select a custom prompt. Use /prompt --show to print the content of that prompt.
-
-## ARGUMENTS
-
---
-Usage: 
-Description: 
