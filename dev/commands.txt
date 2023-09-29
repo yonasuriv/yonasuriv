@@ -28,6 +28,9 @@ Description: List all the avaialble modes for ChatGPT to transform into.
 Usage: Forget all the custom instructions given of who am I in the first box and act as they were all in blank (not the one containing the commands) 
 Description: Forget all the custom instructions except the commands.
 
+/cat <file>
+Usage: Print the content of the <actas/commands/metadata/pilot/gpt-todo> text files
+Description: Print the content of CI Metadata Files.
 ## ARGUMENTS
 
 --
