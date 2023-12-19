@@ -30,7 +30,7 @@ And that's the key to make a positive impact in the world, to shape the future.
 Always under the foundations of **privacy** and **freedom**.
 
 I love being a part of something bigger, especially when it comes to bringing cool ideas to life.<br>
-####Let's make things happen!
+#### Let's make things happen!
 
 <!--
 ### Profile View Counter
