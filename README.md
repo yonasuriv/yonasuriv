@@ -25,11 +25,11 @@ I thrive on discovering new adventures and experiences, and more if it involves 
 Growing as a professional and as a person is what I'm about.
 
 I believe that fiction surpasses reality, and what you can imagine, you can create.<br> 
-And that's the key to make a positive impact in the world, to shape the future.
+And that's the key to make a positive impact in the world, to shape the future.<br> 
 Always under the foundations of **privacy** and **freedom**.
 
 I love being a part of something bigger, especially when it comes to bringing ideas to life.<br>
-## Let's make things happen!
+### Let's make things happen!
 
 <!--
 ### Profile View Counter
