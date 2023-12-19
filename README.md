@@ -18,17 +18,19 @@
 <!-- ### About -->
 Hey there! I'm all about tech, AI, and keeping digital spaces safe. 
 
-**Adrenaline** is my middle name and **innovation** and **creativity** are my playgrounds. What gets me going? **Curiosity**. 
+**Adrenaline** is my middle name and **innovation** and **creativity** are my playgrounds.<br> 
+What gets me going? **Curiosity**. 
 
-I thrive on discovering new adventures and experiences, especially if it involves challenges. 
+I thrive on discovering new adventures and experiences, and more if it involves challenges.<br> 
 Growing as a professional and as a person is what I'm about.
 
-I believe that fiction surpasses reality, and what you can imagine, you can create. 
+I believe that fiction surpasses reality, and what you can imagine, you can create.<br> 
 And that's the key to make a positive impact in the world, to shape the future.
 
 Always under the foundations of **privacy** and **freedom**.
 
-I love being a part of something bigger, especially when it comes to bringing cool ideas to life. Let's make things happen!
+I love being a part of something bigger, especially when it comes to bringing cool ideas to life.<br>
+####Let's make things happen!
 
 <!--
 ### Profile View Counter
