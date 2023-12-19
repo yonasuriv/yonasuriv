@@ -16,16 +16,19 @@
    [![Gmail](https://img.shields.io/badge/website-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://www.yonasuriv.com) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yonadirico) [![Twitter](	https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yonasuriv) [![Mail](https://img.shields.io/badge/Email-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:dev@yonasuriv.com) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yonadirico/) 
 
 <!-- ### About -->
-I’m a technology passionate inspired by **curiosity**, that’s what drives me.  
-I’m currently focusing on **Cybersecurity**, **Artificial Intelligence** and **Software Development**.
+Hey there! I'm all about tech, AI, and keeping digital spaces safe. 
 
-I believe that fiction surpasses reality, and what you can **imagine**, you can **create**.  
-And that mindset makes me be in the constant search for **creativity**, **innovation**   and drive a positive change in the **future**, under the foundations of **privacy** and **freedom**.
+**Adrenaline** is my middle name and **innovation** and **creativity** are my playgrounds. What gets me going? **Curiosity**. 
 
-Adrenaline hunter, all the time looking for new **experiences** and adventures.  
-Always eager to **learn** and **grow** as a professional and as a person while doing my best to contribute to the **world**.
+I thrive on discovering new adventures and experiences, especially if it involves challenges. 
+Growing as a professional and as a person is what I'm about.
 
-### **I love ideas and being part of those who manage to carry them out**.
+I believe that fiction surpasses reality, and what you can imagine, you can create. 
+And that's the key to make a positive impact in the world, to shape the future.
+
+Always under the foundations of **privacy** and **freedom**.
+
+I love being a part of something bigger, especially when it comes to bringing cool ideas to life. Let's make things happen!
 
 <!--
 ### Profile View Counter
