@@ -21,7 +21,7 @@ Hey there! I'm all about tech, AI, and keeping digital spaces safe.
 **Adrenaline** is my middle name and **innovation** and **creativity** are my playgrounds.<br> 
 What gets me going? **Curiosity**. 
 
-I thrive on discovering new adventures and experiences, and more if it involves challenges.<br> 
+I thrive on discovering new adventures and experiences, and more if they involve challenges.<br> 
 Growing as a professional and as a person is what I'm about.
 
 I believe that fiction surpasses reality, and what you can imagine, you can create.<br> 
