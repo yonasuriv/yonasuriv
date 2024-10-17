@@ -24,7 +24,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           # user: yonasuriv
-          filename: plugin.Metrics.svg
+          filename: /.plugins/Metrics.svg
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Copenhagen
@@ -63,7 +63,7 @@ jobs:
       - name: Achievements
         uses: lowlighter/metrics@latest
         with:
-          filename: plugin.Achievements.svg
+          filename: /.plugins/Achievements.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_achievements: yes
@@ -77,7 +77,7 @@ jobs:
       - name: Featured Repositories
         uses: lowlighter/metrics@latest
         with:
-          filename: plugin.Featured-Repositories.svg
+          filename: /.plugins/Featured-Repositories.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_repositories: yes
@@ -86,7 +86,7 @@ jobs:
       - name: Stargazers
         uses: lowlighter/metrics@latest
         with:
-          filename: plugin.Stargazers.svg
+          filename: /.plugins/Stargazers.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_stargazers: yes
@@ -95,7 +95,7 @@ jobs:
       - name: Starred Topics
         uses: lowlighter/metrics@latest
         with:
-          filename: plugin.Starred-Topics.svg
+          filename: /.plugins/Starred-Topics.svg
           token: NOT_NEEDED
           base: ""
           plugin_topics: yes
@@ -108,24 +108,24 @@ jobs:
         uses: lowlighter/metrics@latest
         if: ${{ success() || failure() }}
         with:
-          filename: plugin.Profile-MBTI.svg
+          filename: /.plugins/Profile-MBTI.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_16personalities: yes
           plugin_16personalities_scores: yes
           plugin_16personalities_sections: personality, profile, traits
-          plugin_16personalities_url: https://www.16personalities.com/profiles/b293e70d24e12
+          plugin_16personalities_url: ${{ secrets.MBTI_URL }}
 
       - name: Steam Profile
         uses: lowlighter/metrics@latest
         with:
-          filename: plugin.Profile-Steam.svg
+          filename: /.plugins/Profile-Steam.svg
           token: NOT_NEEDED
           base: ""
-          plugin_steam_token: ${{ secrets.C0F38E14AFD6A3D119E84C1874273E08 }}
+          plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
           plugin_steam_games_limit: 1
           plugin_steam: yes
-          plugin_steam_user: "76561198047173739" # 0
+          plugin_steam_user: ${{ secrets.STEAM_USER }} # 0
 
       - name: Spotify Profile
         uses: lowlighter/metrics@latest
@@ -145,7 +145,7 @@ jobs:
       - name: RSS Feeds
         uses: lowlighter/metrics@latest
         with:
-          filename: plugin.RSS-Feed.svg
+          filename: /.plugins/RSS-Feed.svg
           token: NOT_NEEDED
           base: ""
           plugin_rss: no
