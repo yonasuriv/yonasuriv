@@ -1,5 +1,3 @@
-
-
 <!-- Dev Card -->
 <!-- https://api.daily.dev/get?r=yonasuriv // Referral Code for DailyDev (Under Construction) -->
 <a href="https://www.yonasuriv.com">
@@ -30,6 +28,10 @@ Always under the foundations of **privacy** and **freedom**.
 
 I love being a part of something bigger, especially when it comes to bringing ideas to life.<br>
 Let's make things happen!
+
+<picture>
+  <img src="/github-metrics.svg" alt="Metrics">
+</picture>
 
 <!--
 ### Profile View Counter
