@@ -15,11 +15,11 @@ jobs:
       group: metrics-update
       cancel-in-progress: true
     steps:
-      - name: Cache dependencies
-        uses: actions/cache@v2
-        with:
-          path: ~/.cache
-          key: ${{ runner.os }}-cache-${{ hashFiles('**/lockfiles') }}
+    #   - name: Cache dependencies
+    #     uses: actions/cache@v2
+    #     with:
+    #       path: ~/.cache
+    #       key: ${{ runner.os }}-cache-${{ hashFiles('**/lockfiles') }}
       - uses: lowlighter/metrics@latest
         with:
           # Your GitHub token
@@ -33,7 +33,7 @@ jobs:
           #  - read:user     (for user related data)
           #  - read:packages (for some packages related data)
           #  - repo          (optional, if you want to include private repositories)
-          token: ${{ secrets.GH_PAT }}
+          token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
           user: yonasuriv
