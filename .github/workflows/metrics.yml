@@ -20,10 +20,11 @@ jobs:
       contents: write
 
     steps:
-      - name: General
+      - name: General Metrics
         uses: lowlighter/metrics@latest
         with:
           # user: yonasuriv
+          filename: plugin.Metrics.svg
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Copenhagen
@@ -43,31 +44,109 @@ jobs:
           # Options
           plugin_gists: yes
           plugin_habits: yes
-          plugin_habits_charts_type: classic
-          plugin_habits_days: 14
           plugin_habits_facts: yes
+          plugin_habits_charts_type: classic # can be classic or graph
+          plugin_habits_days: 14
           plugin_habits_from: 200
+          
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
+          plugin_isocalendar_duration: half-year # can be half-year or full-year
+          
           plugin_lines: yes
           plugin_lines_history_limit: 1
           plugin_lines_repositories_limit: 4
           plugin_lines_sections: base
-          plugin_traffic: yes
-          plugin_achievements: yes
-          plugin_languages: yes
-          plugin_skyline: yes
-          plugin_music: yes
           
-      - name: MBTI Personality profile
+          plugin_traffic: yes
+          plugin_languages: yes
+
+      - name: Achievements
+        uses: lowlighter/metrics@latest
+        with:
+          filename: plugin.Achievements.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_achievements: yes
+          plugin_achievements_secrets: yes
+          plugin_achievements_limit: 0 # 0 to disable
+          plugin_achievements_display: detailed
+          # plugin_achievements_threshold: X # Displays achievements not yet unlocked
+          # plugin_achievements_ignored: 
+            # Options: polyglot, stargazer, sponsor, deployer, member, maintainer, developer, scripter, packager, explorer, infographile, manager
+
+      - name: Stargazers
+        uses: lowlighter/metrics@latest
+        with:
+          filename: plugin.Stargazers.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_stargazers: yes
+          plugin_stargazers_charts: no
+
+      - name: Featured repositories
+        uses: lowlighter/metrics@latest
+        with:
+          filename: plugin.Featured-Repositories.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_repositories: yes
+          plugin_repositories_featured: lowlighter/metrics
+      
+      - name: MBTI Personality Profile
         uses: lowlighter/metrics@latest
         if: ${{ success() || failure() }}
         with:
-          filename: metrics.plugin.MBTI.svg
+          filename: plugin.Profile-MBTI.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_16personalities: yes
           plugin_16personalities_scores: yes
-          plugin_16personalities_sections: personality, traits
-          plugin_16personalities_url: ${{ secrets.b293e70d24e12 }}
-          
+          plugin_16personalities_sections: personality, profile, traits
+          plugin_16personalities_url: ${{ https://www.16personalities.com/profiles/b293e70d24e12 }}
+
+      - name: Starred Topics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: plugin.Starred-Topics.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_topics: yes
+          plugin_topics_limit: 0
+          plugin_topics_sort: stars # can be stars, activity, starred (date) or random
+          plugin_topics_mode: icons # can be icons or labels
+
+      - name: Steam Profile
+        uses: lowlighter/metrics@latest
+        with:
+          filename: plugin.Profile-Steam.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_steam_token: ${{ secrets.C0F38E14AFD6A3D119E84C1874273E08 }}
+          plugin_steam_games_limit: 1
+          plugin_steam: yes
+          plugin_steam_user: "76561198047173739" # 0
+
+      - name: Spotify Profile
+        uses: lowlighter/metrics@latest
+        with:
+          token: NOT_NEEDED
+          base: ""
+          plugin_music: no
+          plugin_music_provider: spotify
+          plugin_music_token: ${{ secrets.SPOTIFY_TOKENS }}
+          # plugin_music_user: 
+          plugin_music_mode: top # can be playlist (random track from url), recent or top (artists/tracks)
+          plugin_music_top_type: artists # can be artists or tracks
+          plugin_music_playlist: EMBEDDED_URL
+          plugin_music_limit: 4
+          plugin_music_time_range: long # can be short (1 month), medium (6 months) or long (all time)
+
+      - name: RSS Feeds
+        uses: lowlighter/metrics@latest
+        with:
+          filename: plugin.RSS-Feed.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_rss: no
+          plugin_rss_source: https://news.ycombinator.com/rss
+          plugin_rss_limit: 4
