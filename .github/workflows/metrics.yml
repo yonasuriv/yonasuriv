@@ -114,7 +114,7 @@ jobs:
           plugin_16personalities: yes
           plugin_16personalities_scores: yes
           plugin_16personalities_sections: personality, profile, traits
-          plugin_16personalities_url: ${{ www.16personalities.com/profiles/b293e70d24e12 }}
+          plugin_16personalities_url: ${{ 16personalities.com/profiles/b293e70d24e12 }}
 
       - name: Steam Profile
         uses: lowlighter/metrics@latest
