@@ -1,4 +1,4 @@
-<!-- Dev Card -->
+<!-- ### Developer Card -->
 <!-- https://api.daily.dev/get?r=yonasuriv // Referral Code for DailyDev (Under Construction) -->
 <a href="https://www.yonasuriv.com">
     <img
@@ -8,10 +8,25 @@
       alt="Jonathan Di Rico (yonasuriv) Developer Card"
     >
   </a>
-</div>
 
 <!-- ### Contact me -->
-   [![Gmail](https://img.shields.io/badge/website-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://www.yonasuriv.com) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yonadirico) [![Twitter](	https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yonasuriv) [![Mail](https://img.shields.io/badge/Email-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:dev@yonasuriv.com) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yonadirico/) 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yonadirico) 
+[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yonadirico/) 
+[![GitHub](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yonasuriv)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/yonasuriv) 
+<!--[![Mastodon](https://img.shields.io/badge/mastodon-000000?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@yonasuriv)-->
+<!--[![Mail](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:dev@yonasuriv.com)-->
+<!--[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=dev.to&logoColor=white)](https://www.yonasuriv.com)-->
+
+<!-- OLD 
+[![Website](https://img.shields.io/badge/website-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://www.yonasuriv.com) 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yonadirico) 
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yonasuriv) 
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/yonasuriv) 
+[![Mastodon](https://img.shields.io/badge/mastodon-000000?style=for-the-badge&logo=mastodon&logoColor=white)](https://x.com/yonasuriv) 
+[![Mail](https://img.shields.io/badge/Email-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:dev@yonasuriv.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yonadirico/) 
+-->
 
 <!-- ### About -->
 Hey there! I'm all about tech, AI, and keeping digital spaces safe. 
@@ -29,6 +44,15 @@ Always under the foundations of **privacy** and **freedom**.
 I love being a part of something bigger, especially when it comes to bringing ideas to life.<br>
 Let's make things happen!
 
+<!-- ### Typing SVG -->
+<!-- <p align="left"><strong><samp>「</samp></strong></p> -->
+   <br>
+   <p align="center">
+          <image src="https://readme-typing-svg.herokuapp.com?color=d90081&lines=Are+you+a+one+or+a+zero%3F">
+              </p>
+    <!--<p align="right"><strong><samp>」</samp></strong></p> -->
+
+<!-- ### MetricS -->
 <picture>
   <img src="/github-metrics.svg" alt="Metrics">
 </picture>
@@ -61,11 +85,3 @@ Extremely passionate about Technology, Science and Philosophy. These are the fie
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 -->
-
-<!-- Typing SVG -->
-<!-- <p align="left"><strong><samp>「</samp></strong></p> -->
-   <br>
-   <p align="center">
-          <image src="https://readme-typing-svg.herokuapp.com?color=d90081&lines=Are+you+a+one+or+a+zero%3F">
-              </p>
-    <!--<p align="right"><strong><samp>」</samp></strong></p> -->
