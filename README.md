@@ -83,7 +83,7 @@ Let's make things happen!
   <image 
   src=".plugins/Metrics.svg"
   alt="Metrics"
-  width="600"
+  width=""
   align="left"
   >
 </a>
