@@ -1,34 +1,57 @@
-<!-- ### Developer Card -->
-<!-- https://api.daily.dev/get?r=yonasuriv // Referral Code for DailyDev (Under Construction) -->
-<a href="https://www.yonasuriv.com">
-    <img
-      width="256"
-      align="right"
-      src="https://github.com/yonasuriv/yonasuriv/blob/main/devcard.svg"
-      alt="Jonathan Di Rico (yonasuriv) Developer Card"
-    >
-  </a>
+<!-- DEVELOPER CARD (original width="256" -->
 
-<!-- ### Contact me -->
-[![Linkedin](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yonadirico) 
-[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yonadirico/) 
-[![GitHub](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yonasuriv)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/yonasuriv) 
-<!--[![Mastodon](https://img.shields.io/badge/mastodon-000000?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@yonasuriv)-->
-<!--[![Mail](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:dev@yonasuriv.com)-->
-<!--[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=dev.to&logoColor=white)](https://www.yonasuriv.com)-->
+<a href="https://dly.to/149YTwKNEdf">
+  <image 
+  src="https://api.daily.dev/devcards/v2/jzd0XPKYw5GfG2OJ9TZtJ.png?r=fxd&type=default"
+  alt="Jonathan Di Rico (yonasuriv) Developer Card"
+  width="356"
+  align="right"
+  >
+</a> 
 
-<!-- OLD 
-[![Website](https://img.shields.io/badge/website-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://www.yonasuriv.com) 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yonadirico) 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yonasuriv) 
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/yonasuriv) 
-[![Mastodon](https://img.shields.io/badge/mastodon-000000?style=for-the-badge&logo=mastodon&logoColor=white)](https://x.com/yonasuriv) 
-[![Mail](https://img.shields.io/badge/Email-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:dev@yonasuriv.com) 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yonadirico/) 
--->
 
-<!-- ### About -->
+<!-- CONTACT -->
+<p align="left">
+    <image 
+        alt="LinkedIn" 
+        src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"
+        href="https://www.linkedin.com/in/yonadirico" 
+        >
+    <image 
+        alt="Instagram" 
+        src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white"
+        href="https://www.instagram.com/yonadirico" 
+        >
+    <image 
+        alt="GitHub" 
+        src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white"
+        href="https://github.com/yonasuriv" 
+        >
+    <image 
+        alt="X" 
+        src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"
+        href="https://x.com/yonasuriv" 
+        >
+    <!--
+    <image 
+        alt="Mastodon" 
+        src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=mastodon&logoColor=white"
+        href="https://mastodon.social/@yonasuriv" 
+        >
+    <image 
+        alt="Email" 
+        src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=protonmail&logoColor=white"
+        href="mailto:null@yonasuriv.com" 
+        >
+    <image 
+        alt="Website" 
+        src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=dev.to&logoColor=white"
+        href="https://www.yonasuriv.com" 
+        >
+        -->
+</p>
+
+<!-- ABOUT -->
 Hey there! I'm all about tech, AI, and keeping digital spaces safe. 
 
 **Adrenaline** is my middle name and **innovation** and **creativity** are my playgrounds.<br> 
@@ -44,44 +67,89 @@ Always under the foundations of **privacy** and **freedom**.
 I love being a part of something bigger, especially when it comes to bringing ideas to life.<br>
 Let's make things happen!
 
-<!-- ### Typing SVG -->
-<!-- <p align="left"><strong><samp>「</samp></strong></p> -->
-   <br>
-   <p align="center">
-          <image src="https://readme-typing-svg.herokuapp.com?color=d90081&lines=Are+you+a+one+or+a+zero%3F">
-              </p>
-    <!--<p align="right"><strong><samp>」</samp></strong></p> -->
+<!-- QUOTE -->
+<br><br>
+<p align="center">
+  <image 
+  src="https://readme-typing-svg.herokuapp.com?color=d90081&lines=Are+you+a+one+or+a+zero%3F"
+  alt="Are you a one or a zero?"
+  width="390"
+  href="#"
+  >
+</p>
 
-<!-- ### MetricS -->
-<picture>
-  <img src="/github-metrics.svg" alt="Metrics">
-</picture>
+<!-- LEFT PANEL -->
+<a href="https://dly.to/149YTwKNEdf">
+  <image 
+  src=".plugins/Metrics.svg"
+  alt="Metrics"
+  width="600"
+  align="left"
+  >
+</a>
+<br>
+<a href="https://dly.to/149YTwKNEdf">
+  <image 
+  src="/.plugins/Profile-MBTI.svg"
+  alt="MBTI Profile"
+  width="356"
+  align="right"
+  >
+</a>
+
+<a href="https://dly.to/149YTwKNEdf">
+  <image 
+  src="/.plugins/Profile-Spotify.svg"
+  alt="Spotify Profile"
+  width="356"
+  align="right"
+  >
+</a>
+
+<a href="https://dly.to/149YTwKNEdf">
+  <image 
+  src="/.plugins/Profile-Steam.svg"
+  alt="Steam Profile"
+  width="356"
+  align="right"
+  >
+</a>
+<!--
+<a href="https://dly.to/149YTwKNEdf">
+  <image 
+  src="/.plugins/RSS-Feed.svg"
+  alt="RSS Feeds"
+  width="356"
+  align="right"
+  >
+</p>
+<!--
+<a href="https://dly.to/149YTwKNEdf">
+  <image 
+  src="/.plugins/Stargazers.svg"
+  alt="Stargazers"
+  width=""
+  align="left"
+  >
+</a>
+
+
+<!--[<img align="left" width="" alt="Metrics" src=".plugins/Metrics.svg">](#)
+[<img align="left" width="" src="/.plugins/Stargazers.svg" alt="Stargazers">](#)
+[<img align="right" width="356" src="/.plugins/Achievements.svg" alt="Achievements">](#)
+<!--[<img align="left" width="390"src="/.plugins/Starred-Topics.svg" alt="Starred Topics">](#)-->
+<!--[<img align="left" width="390" src="/.plugins/Featured-Repositories.svg" alt="Featured">](#)-->
+
+<!-- RIGHT PANEL -->
+
+
 
 <!--
-### Profile View Counter
-![](https://komarev.com/ghpvc/?username=yonasuriv&color=dc143c&style=for-the-badge)
+[<img align="right" width="" src="/.plugins/Profile-MBTI.svg" alt="MBTI Profile">](#)
+[<img align="right" width="" src="/.plugins/Profile-Spotify.svg" alt="Steam Profile">](#)
+[<img align="right" width="" src="/.plugins/Profile-Steam.svg" alt="Steam Profile">](#)
+[<img align="right" width="" src="/.plugins/RSS-Feed.svg" alt="RSS Feeds">](#)
 
-### Technologies
-1. Web Development - **HTML5**, **CSS3**, **JavaScript**, **PHP**, **WordPress**,  
-   **MongoDB** (NoSQL), **ExpressJS**, **ReactJS**, **NodeJS**
-2. Software Development - **Shell Scripting** and **Python**
-3. Mobile Applications - **Flutter**
-4. Graphic Design - **Figma**
-5. Virtualization - **Docker**
-6. Version Control - **Git** and **GitHub**
+[<img align="right" width="390" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/placeholder.svg" alt="Placeholder" height="80">](#)-->
 
-### Interests
-Extremely passionate about Technology, Science and Philosophy. These are the fields I like most:
-- Full-Stack Development and Software Engineering
-- Artificial Intelligence and Machine Learning
-- Cybersecurity
-- Cryptography 
-- Blockchain
 
-<!-- Badges 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)   
-
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
--->
