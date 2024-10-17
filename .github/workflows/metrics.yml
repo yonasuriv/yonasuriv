@@ -74,6 +74,15 @@ jobs:
           # plugin_achievements_ignored: 
             # Options: polyglot, stargazer, sponsor, deployer, member, maintainer, developer, scripter, packager, explorer, infographile, manager
 
+      - name: Featured Repositories
+        uses: lowlighter/metrics@latest
+        with:
+          filename: plugin.Featured-Repositories.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_repositories: yes
+          plugin_repositories_featured: lowlighter/metrics
+          
       - name: Stargazers
         uses: lowlighter/metrics@latest
         with:
@@ -82,27 +91,6 @@ jobs:
           base: ""
           plugin_stargazers: yes
           plugin_stargazers_charts: no
-
-      - name: Featured repositories
-        uses: lowlighter/metrics@latest
-        with:
-          filename: plugin.Featured-Repositories.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_repositories: yes
-          plugin_repositories_featured: lowlighter/metrics
-      
-      - name: MBTI Personality Profile
-        uses: lowlighter/metrics@latest
-        if: ${{ success() || failure() }}
-        with:
-          filename: plugin.Profile-MBTI.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_16personalities: yes
-          plugin_16personalities_scores: yes
-          plugin_16personalities_sections: personality, profile, traits
-          plugin_16personalities_url: ${{ www.16personalities.com/profiles/b293e70d24e12 }}
 
       - name: Starred Topics
         uses: lowlighter/metrics@latest
@@ -114,6 +102,19 @@ jobs:
           plugin_topics_limit: 0
           plugin_topics_sort: stars # can be stars, activity, starred (date) or random
           plugin_topics_mode: icons # can be icons or labels
+          
+      #/ PERSONA
+      - name: MBTI Personality Profile
+        uses: lowlighter/metrics@latest
+        if: ${{ success() || failure() }}
+        with:
+          filename: plugin.Profile-MBTI.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_16personalities: yes
+          plugin_16personalities_scores: yes
+          plugin_16personalities_sections: personality, profile, traits
+          plugin_16personalities_url: ${{ www.16personalities.com/profiles/b293e70d24e12 }}
 
       - name: Steam Profile
         uses: lowlighter/metrics@latest
