@@ -1,4 +1,4 @@
-name: Metrics
+name: Update Metrics
 
 on:
   # Think about the planet, no need to update stats too frequently
