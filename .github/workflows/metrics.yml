@@ -30,8 +30,8 @@ jobs:
         with:
           # user: yonasuriv
           filename: /source/plugins/Metrics.svg
-          template: classic
-          base: header, activity, community, repositories, metadata
+          # template: classic
+          # base: header, activity, community, repositories, metadata
           config_timezone: Europe/Copenhagen
           # Your GitHub token
           # The following scopes are required:
