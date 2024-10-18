@@ -16,9 +16,11 @@ jobs:
   devcard:
     runs-on: ubuntu-latest
     steps:
-      - name: devcard
+      - name: DevCard
         uses: dailydotdev/action-devcard@3.1.0
         with:
-          filename: /source/plugins/devcard.png
           user_id: ${{ secrets.DEVCARD_TOKEN }}
           commit_message: "Developer's Card Updated"
+
+      - name: Remove Artifacts
+        run: mv "/devcard.png" "/source/plugins/devcard.png"
