@@ -30,7 +30,6 @@ jobs:
         with:
           # user: yonasuriv
           filename: /source/plugins/Metrics.svg
-          if: ${{ success() || failure() }}
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Copenhagen
