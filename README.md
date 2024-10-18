@@ -36,7 +36,7 @@
 </p>
 
 <image 
-src="https://raw.githubusercontent.com/yonasuriv/yonasuriv/refs/heads/main/source/plugins/Metrics.svg"
+src="https://raw.githubusercontent.com/yonasuriv/yonasuriv/refs/heads/main/source/plugins/mtrics.svg"
 alt="Metrics"
 width=""
 align="left">
@@ -49,65 +49,53 @@ alt="Jonathan Di Rico (yonasuriv) Developer Card"
 width="316"
 align="right">
 <image 
-src="https://raw.githubusercontent.com/yonasuriv/yonasuriv/refs/heads/main/source/plugins/Profile-Steam.svg"
+src="https://raw.githubusercontent.com/yonasuriv/yonasuriv/refs/heads/main/source/plugins/profile.steam.svg"
 alt="Steam Profile"
 width=""
 align="left">
 
 <image 
-src="https://raw.githubusercontent.com/yonasuriv/yonasuriv/refs/heads/main/source/plugins/Profile-MBTI.svg"
+src="https://raw.githubusercontent.com/yonasuriv/yonasuriv/refs/heads/main/source/plugins/profile.mbti.svg"
 alt="MBTI Profile"
 width=""
 align="left">
 
 <image 
-src="https://raw.githubusercontent.com/yonasuriv/yonasuriv/refs/heads/main/source/plugins/Languages.svg"
+src="https://raw.githubusercontent.com/yonasuriv/yonasuriv/refs/heads/main/source/plugins/languages.indepth.svg"
 alt="Languages"
 width="316"
 align="right">
 
 <image 
-src="https://raw.githubusercontent.com/yonasuriv/yonasuriv/refs/heads/main/source/plugins/Habits.svg"
+src="https://raw.githubusercontent.com/yonasuriv/yonasuriv/refs/heads/main/source/plugins/habits.svg"
 alt="Habits"
 width=""
 align="left">
 
 <image 
-src="https://raw.githubusercontent.com/yonasuriv/yonasuriv/refs/heads/main/source/plugins/Achievements.svg"
+src="https://raw.githubusercontent.com/yonasuriv/yonasuriv/refs/heads/main/source/plugins/achievements-detailed.svg"
 alt="Achievements"
 width="316"
 align="right">
 
-
-
-
-
-
-
-
-
-
-
 <image 
-src="https://raw.githubusercontent.com/yonasuriv/yonasuriv/refs/heads/main/source/plugins/Profile-Spotify.svg"
+src="https://raw.githubusercontent.com/yonasuriv/yonasuriv/refs/heads/main/source/plugins/profile.spotify.svg"
 alt="Spotify Profile"
 width=""
 align="left">
 
-
-
-<image src="https://raw.githubusercontent.com/yonasuriv/yonasuriv/refs/heads/main/source/plugins/Featured.svg"
-alt="Featured Repositories"
-width=""
-align="left">
-
 <image 
-src="https://raw.githubusercontent.com/yonasuriv/yonasuriv/refs/heads/main/source/plugins/Contributions.svg"
+src="https://raw.githubusercontent.com/yonasuriv/yonasuriv/refs/heads/main/source/plugins/contributions-full.svg"
 alt="Contributions"
 width=""
 align="left">
 
 <!--
+<image src="https://raw.githubusercontent.com/yonasuriv/yonasuriv/refs/heads/main/source/plugins/featured.repos.svg"
+alt="Featured Repositories"
+width=""
+align="left">
+
 <a href="">
   <image 
   src="https://raw.githubusercontent.com/yonasuriv/yonasuriv/refs/heads/main/source/plugins/Stargazers.svg"
