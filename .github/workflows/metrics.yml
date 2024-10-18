@@ -21,10 +21,10 @@ jobs:
 
     steps:
       - name: General Metrics
-        uses: lowlighter/metrics@latest
+        uses: yonasuriv/metrics@latest
         with:
           # user: yonasuriv
-          filename: /source/plugins/assets/Metrics.svg
+          filename: /source/plugins/Metrics.svg
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Copenhagen
@@ -62,9 +62,9 @@ jobs:
           plugin_languages: yes
 
       - name: Achievements
-        uses: lowlighter/metrics@latest
+        uses: yonasuriv/metrics@latest
         with:
-          filename: /source/plugins/assets/Achievements.svg
+          filename: /source/plugins/Achievements.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_achievements: yes
@@ -76,27 +76,27 @@ jobs:
             # Options: polyglot, stargazer, sponsor, deployer, member, maintainer, developer, scripter, packager, explorer, infographile, manager
 
       - name: Featured Repositories
-        uses: lowlighter/metrics@latest
+        uses: yonasuriv/metrics@latest
         with:
-          filename: /source/plugins/assets/Featured-Repositories.svg
+          filename: /source/plugins/Featured-Repositories.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_repositories: yes
-          plugin_repositories_featured: lowlighter/metrics
+          plugin_repositories_featured: yonasuriv/metrics
           
       - name: Stargazers
-        uses: lowlighter/metrics@latest
+        uses: yonasuriv/metrics@latest
         with:
-          filename: /source/plugins/assets/Stargazers.svg
+          filename: /source/plugins/Stargazers.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_stargazers: no
           plugin_stargazers_charts: no
 
       - name: Starred Topics
-        uses: lowlighter/metrics@latest
+        uses: yonasuriv/metrics@latest
         with:
-          filename: /source/plugins/assets/Starred-Topics.svg
+          filename: /source/plugins/Starred-Topics.svg
           token: NOT_NEEDED
           base: ""
           plugin_topics: yes
@@ -106,10 +106,10 @@ jobs:
           
       # PERSONA
       - name: MBTI Personality Profile
-        uses: lowlighter/metrics@latest
+        uses: yonasuriv/metrics@latest
         if: ${{ success() || failure() }}
         with:
-          filename: /source/plugins/assets/Profile-MBTI.svg
+          filename: /source/plugins/Profile-MBTI.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_16personalities: yes
@@ -118,18 +118,18 @@ jobs:
           plugin_16personalities_url: ${{ secrets.MBTI_URL }}
 
       - name: Steam Profile
-        uses: lowlighter/metrics@latest
+        uses: yonasuriv/metrics@latest
         with:
-          filename: /source/plugins/assets/Profile-Steam.svg
+          filename: /source/plugins/Profile-Steam.svg
           token: NOT_NEEDED
           base: ""
+          plugin_steam: yes
           plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
           plugin_steam_games_limit: 1
-          plugin_steam: yes
           plugin_steam_user: ${{ secrets.STEAM_USER }} # 0
 
       - name: Spotify Profile
-        uses: lowlighter/metrics@latest
+        uses: yonasuriv/metrics@latest
         with:
           token: NOT_NEEDED
           base: ""
@@ -144,9 +144,9 @@ jobs:
           plugin_music_playlist: EMBEDDED_URL
           
       - name: RSS Feeds
-        uses: lowlighter/metrics@latest
+        uses: yonasuriv/metrics@latest
         with:
-          filename: /source/plugins/assets/RSS-Feed.svg
+          filename: /source/plugins/RSS-Feed.svg
           token: NOT_NEEDED
           base: ""
           plugin_rss: no
