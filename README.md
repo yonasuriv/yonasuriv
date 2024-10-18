@@ -78,6 +78,7 @@ Let's make things happen!
   >
 </p>
 
+<!-- METRICS -->
 <a href="">
   <image 
   src="/source/plugins/Metrics.svg"
@@ -95,7 +96,18 @@ Let's make things happen!
   align="right"
   >
 </a>
-    
+
+<!--
+<a href="">
+  <image 
+  src="/source/plugins/Stargazers.svg"
+  alt="Stargazers"
+  width=""
+  align="left"
+  >
+</a>
+-->
+
 <!--
 <a href="">
   <image 
@@ -126,18 +138,6 @@ Let's make things happen!
   >
 </p>
 -->
-
-<!--
-<a href="">
-  <image 
-  src="/source/plugins/Stargazers.svg"
-  alt="Stargazers"
-  width=""
-  align="left"
-  >
-</a>
--->
-
 
 <!--[<img align="left" width="" alt="Metrics" src="/source/plugins//Metrics.svg">](#)
 [<img align="left" width="" src="//source/plugins//Stargazers.svg" alt="Stargazers">](#)
