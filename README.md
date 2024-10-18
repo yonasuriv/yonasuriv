@@ -78,78 +78,77 @@ Let's make things happen!
   >
 </p>
 
-<!-- LEFT PANEL -->
-<a href="https://dly.to/149YTwKNEdf">
+<a href="">
   <image 
-  src=".plugins/Metrics.svg"
+  src="/source/plugins/Metrics.svg"
   alt="Metrics"
   width=""
   align="left"
   >
 </a>
-<br>
-<a href="https://dly.to/149YTwKNEdf">
+
+<a href="">
   <image 
-  src="/.plugins/Profile-MBTI.svg"
+  src="/source/plugins/Profile-MBTI.svg"
   alt="MBTI Profile"
   width="356"
   align="right"
   >
 </a>
-
-<a href="https://dly.to/149YTwKNEdf">
+    
+<!--
+<a href="">
   <image 
-  src="/.plugins/Profile-Spotify.svg"
+  src="/source/plugins//Profile-Spotify.svg"
   alt="Spotify Profile"
   width="356"
   align="right"
   >
 </a>
+-->
 
-<a href="https://dly.to/149YTwKNEdf">
+<a href="">
   <image 
-  src="/.plugins/Profile-Steam.svg"
+  src="/source/plugins/Profile-Steam.svg"
   alt="Steam Profile"
   width="356"
   align="right"
   >
 </a>
+    
 <!--
-<a href="https://dly.to/149YTwKNEdf">
+<a href="">
   <image 
-  src="/.plugins/RSS-Feed.svg"
+  src="/source/plugins/RSS-Feed.svg"
   alt="RSS Feeds"
   width="356"
   align="right"
   >
 </p>
+-->
+
 <!--
-<a href="https://dly.to/149YTwKNEdf">
+<a href="">
   <image 
-  src="/.plugins/Stargazers.svg"
+  src="/source/plugins/Stargazers.svg"
   alt="Stargazers"
   width=""
   align="left"
   >
 </a>
+-->
 
 
-<!--[<img align="left" width="" alt="Metrics" src=".plugins/Metrics.svg">](#)
-[<img align="left" width="" src="/.plugins/Stargazers.svg" alt="Stargazers">](#)
-[<img align="right" width="356" src="/.plugins/Achievements.svg" alt="Achievements">](#)
-<!--[<img align="left" width="390"src="/.plugins/Starred-Topics.svg" alt="Starred Topics">](#)-->
-<!--[<img align="left" width="390" src="/.plugins/Featured-Repositories.svg" alt="Featured">](#)-->
-
-<!-- RIGHT PANEL -->
-
-
+<!--[<img align="left" width="" alt="Metrics" src="/source/plugins//Metrics.svg">](#)
+[<img align="left" width="" src="//source/plugins//Stargazers.svg" alt="Stargazers">](#)
+[<img align="right" width="356" src="//source/plugins//Achievements.svg" alt="Achievements">](#)
+<!--[<img align="left" width="390"src="//source/plugins//Starred-Topics.svg" alt="Starred Topics">](#)-->
+<!--[<img align="left" width="390" src="//source/plugins//Featured-Repositories.svg" alt="Featured">](#)-->
 
 <!--
-[<img align="right" width="" src="/.plugins/Profile-MBTI.svg" alt="MBTI Profile">](#)
-[<img align="right" width="" src="/.plugins/Profile-Spotify.svg" alt="Steam Profile">](#)
-[<img align="right" width="" src="/.plugins/Profile-Steam.svg" alt="Steam Profile">](#)
-[<img align="right" width="" src="/.plugins/RSS-Feed.svg" alt="RSS Feeds">](#)
+[<img align="right" width="" src="//source/plugins//Profile-MBTI.svg" alt="MBTI Profile">](#)
+[<img align="right" width="" src="//source/plugins//Profile-Spotify.svg" alt="Steam Profile">](#)
+[<img align="right" width="" src="//source/plugins//Profile-Steam.svg" alt="Steam Profile">](#)
+[<img align="right" width="" src="//source/plugins//RSS-Feed.svg" alt="RSS Feeds">](#)
 
 [<img align="right" width="390" src="https://gist.githubusercontent.com/lowlighter/3c6eaedf50273adfb7a510822672f570/raw/placeholder.svg" alt="Placeholder" height="80">](#)-->
-
-
