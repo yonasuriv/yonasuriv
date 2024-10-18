@@ -1,9 +1,5 @@
-<image 
-src="https://raw.githubusercontent.com/yonasuriv/yonasuriv/refs/heads/main/source/plugins/Metrics.svg"
-alt="Metrics"
-width=""
-align="left">
-<p align="right">
+
+<p align="left">
 <image 
     alt="LinkedIn" 
     src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"
@@ -40,18 +36,18 @@ align="left">
 </p>
 
 <image 
-src="https://api.daily.dev/devcards/v2/jzd0XPKYw5GfG2OJ9TZtJ.png?r=fxd&type=wide"
-href="https://dly.to/149YTwKNEdf"
-alt="Jonathan Di Rico (yonasuriv) Developer Card"
-width="460"
-align="right">
+src="https://raw.githubusercontent.com/yonasuriv/yonasuriv/refs/heads/main/source/plugins/Metrics.svg"
+alt="Metrics"
+width=""
+align="left">
+
 
 <image 
-src="https://raw.githubusercontent.com/yonasuriv/yonasuriv/refs/heads/main/source/plugins/Languages.svg"
-alt="Languages"
-width=""
-align="right"><br>
-
+src="https://api.daily.dev/devcards/v2/jzd0XPKYw5GfG2OJ9TZtJ.png?r=fxd&type=default"
+href="https://dly.to/149YTwKNEdf"
+alt="Jonathan Di Rico (yonasuriv) Developer Card"
+width="356"
+align="right">
 <image 
 src="https://raw.githubusercontent.com/yonasuriv/yonasuriv/refs/heads/main/source/plugins/Profile-Steam.svg"
 alt="Steam Profile"
@@ -59,16 +55,37 @@ width=""
 align="left">
 
 <image 
-src="https://raw.githubusercontent.com/yonasuriv/yonasuriv/refs/heads/main/source/plugins/Achievements.svg"
-alt="Achievements"
-width=""
-align="right">
-
-<image 
 src="https://raw.githubusercontent.com/yonasuriv/yonasuriv/refs/heads/main/source/plugins/Profile-MBTI.svg"
 alt="MBTI Profile"
 width=""
 align="left">
+
+<image 
+src="https://raw.githubusercontent.com/yonasuriv/yonasuriv/refs/heads/main/source/plugins/Languages.svg"
+alt="Languages"
+width="356"
+align="right">
+
+<image 
+src="https://raw.githubusercontent.com/yonasuriv/yonasuriv/refs/heads/main/source/plugins/Habits.svg"
+alt="Habits"
+width=""
+align="left">
+
+<image 
+src="https://raw.githubusercontent.com/yonasuriv/yonasuriv/refs/heads/main/source/plugins/Achievements.svg"
+alt="Achievements"
+width="356"
+align="right">
+
+
+
+
+
+
+
+
+
 
 
 <image 
@@ -77,11 +94,7 @@ alt="Spotify Profile"
 width=""
 align="left">
 
-<image 
-src="https://raw.githubusercontent.com/yonasuriv/yonasuriv/refs/heads/main/source/plugins/Habits.svg"
-alt="Habits"
-width=""
-align="left">
+
 
 <image src="https://raw.githubusercontent.com/yonasuriv/yonasuriv/refs/heads/main/source/plugins/Featured.svg"
 alt="Featured Repositories"
@@ -92,7 +105,7 @@ align="left">
 src="https://raw.githubusercontent.com/yonasuriv/yonasuriv/refs/heads/main/source/plugins/Contributions.svg"
 alt="Contributions"
 width=""
-align="right">
+align="left">
 
 <!--
 <a href="">
