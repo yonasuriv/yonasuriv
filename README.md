@@ -4,7 +4,7 @@
   <image 
   src="https://api.daily.dev/devcards/v2/jzd0XPKYw5GfG2OJ9TZtJ.png?r=fxd&type=default"
   alt="Jonathan Di Rico (yonasuriv) Developer Card"
-  width="356"
+  width="256"
   align="right"
   >
 </a> 
@@ -92,7 +92,7 @@ Let's make things happen!
   <image 
   src="/source/plugins/Profile-MBTI.svg"
   alt="MBTI Profile"
-  width="356"
+  width=""
   align="right"
   >
 </a>
@@ -108,22 +108,21 @@ Let's make things happen!
 </a>
 -->
 
-<!--
 <a href="">
   <image 
   src="/source/plugins/Profile-Spotify.svg"
   alt="Spotify Profile"
-  width="356"
+  width="256"
   align="right"
   >
 </a>
--->
+
 
 <a href="">
   <image 
   src="/source/plugins/Profile-Steam.svg"
   alt="Steam Profile"
-  width="356"
+  width="256"
   align="right"
   >
 </a>

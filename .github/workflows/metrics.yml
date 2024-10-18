@@ -168,4 +168,4 @@ jobs:
           plugin_rss_source: https://news.ycombinator.com/rss
 
       - name: Remove Artifacts
-        run: rm -rf github-metrics.svg
+        run: rm -rf "/github-metrics.svg"
