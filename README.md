@@ -41,81 +41,91 @@ alt="Metrics"
 width=""
 align="left">
 
-
 <image 
 src="https://api.daily.dev/devcards/v2/jzd0XPKYw5GfG2OJ9TZtJ.png?r=fxd&type=default"
 href="https://dly.to/149YTwKNEdf"
 alt="Jonathan Di Rico (yonasuriv) Developer Card"
 width="316"
 align="right">
-<image 
-src="https://raw.githubusercontent.com/yonasuriv/yonasuriv/refs/heads/main/source/plugins/profile.steam-base.svg"
-alt="Steam Profile"
-width=""
-align="left">
+
 
 <image 
 src="https://raw.githubusercontent.com/yonasuriv/yonasuriv/refs/heads/main/source/plugins/profile.mbti.svg"
 alt="MBTI Profile"
-width=""
-align="left">
-
-<image 
-src="https://raw.githubusercontent.com/yonasuriv/yonasuriv/refs/heads/main/source/plugins/languages.indepth.svg"
-alt="Languages"
-width="316"
-align="right">
-
-<image 
-src="https://raw.githubusercontent.com/yonasuriv/yonasuriv/refs/heads/main/source/plugins/habits.svg"
-alt="Habits"
-width=""
-align="left">
-
-<image 
-src="https://raw.githubusercontent.com/yonasuriv/yonasuriv/refs/heads/main/source/plugins/achievements-detailed.svg"
-alt="Achievements"
 width="316"
 align="right">
 
 <image 
 src="https://raw.githubusercontent.com/yonasuriv/yonasuriv/refs/heads/main/source/plugins/profile.spotify.svg"
 alt="Spotify Profile"
-width=""
-align="left">
+width="316"
+align="right">
+
+<image 
+src="https://raw.githubusercontent.com/yonasuriv/yonasuriv/refs/heads/main/source/plugins/profile.steam-base.svg"
+alt="Steam Profile"
+width="316"
+align="right">
+
+<a href="">
+  <image 
+  src="https://raw.githubusercontent.com/yonasuriv/yonasuriv/refs/heads/main/source/plugins/stars.svg"
+  alt="Stargazers"
+  width="316"
+  align="right">
+</a>
+
+<image 
+src="https://raw.githubusercontent.com/yonasuriv/yonasuriv/refs/heads/main/source/plugins/habits.svg"
+alt="Habits"
+width="316"
+align="right">
 
 <image 
 src="https://raw.githubusercontent.com/yonasuriv/yonasuriv/refs/heads/main/source/plugins/contributions-half.svg"
 alt="Contributions"
+width="316"
+align="right">
+
+<image 
+src="https://raw.githubusercontent.com/yonasuriv/yonasuriv/refs/heads/main/source/plugins/languages.indepth.svg"
+alt="Languages"
 width=""
 align="left">
 
-<!--
 <image src="https://raw.githubusercontent.com/yonasuriv/yonasuriv/refs/heads/main/source/plugins/featured.repos.svg"
 alt="Featured Repositories"
+width="316"
+align="right">
+
+
+
+<image 
+src="https://raw.githubusercontent.com/yonasuriv/yonasuriv/refs/heads/main/source/plugins/achievements-compact.svg"
+alt="Achievements"
 width=""
 align="left">
 
-<a href="">
-  <image 
-  src="https://raw.githubusercontent.com/yonasuriv/yonasuriv/refs/heads/main/source/plugins/Stargazers.svg"
-  alt="Stargazers"
-  width=""
-  align="left"
-  >
-</a>
 
-<!--
+
+
+
+
+
+
+
+
+
+
+
+
+
 <a href="">
   <image 
-  src="https://raw.githubusercontent.com/yonasuriv/yonasuriv/refs/heads/main/source/plugins/RSS-Feed.svg"
+  src="https://raw.githubusercontent.com/yonasuriv/yonasuriv/refs/heads/main/source/plugins/rss.feed.svg"
   alt="RSS Feeds"
-  width="300"
-  align="right"
+  width="3"
+  align=""
   >
 </p>
--->
-
-
-
 

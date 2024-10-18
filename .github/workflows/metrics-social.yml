@@ -1,0 +1,113 @@
+# This has been forked (security reasons) from lowlighter, all kudos to him
+
+# https://github.com/yonasuriv/metrics/blob/master/source/plugins/README.md
+# To view examples of plugin deployment refer to the examples.yml file
+
+name: Update Metrics
+
+on:
+  # Think about the planet, no need to update stats too frequently
+  schedule: [{cron: "0 16 * * *"}]
+  
+  # Schedule updates (every 3 hours)
+  # schedule: [{cron: "0 */3 * * *"}]
+  
+  # Lines below let you run workflow manually and on each commit
+  workflow_dispatch:
+  push: {branches: ["master", "main"]}
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    environment: 
+      name: Profile
+    permissions:
+      contents: write
+
+    steps:
+      - name: General Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          # Your GitHub token
+          # The following scopes are required:
+          #  - public_access (default scope)
+          #  - read:user
+          #  - read:org
+          #  - repo
+          # The following additional scopes may be required:
+          #  - read:org      (for organization related metrics)
+          #  - read:user     (for user related data)
+          #  - read:packages (for some packages related data)
+          #  - repo          (optional, if you want to include private repositories)
+          token: ${{ secrets.METRICS_TOKEN }}
+          
+          # Options
+          user: yonasuriv
+          filename: source/plugins/about.svg
+          template: classic
+          base: header, activity, community, repositories, metadata
+          base_indepth: yes
+          config_octicon: yes
+          config_order: base:header, base:repositories, metadata, base:habits, base:languages, community
+          config_timezone: Europe/Copenhagen
+
+          plugin_introduction: yes
+          plugin_introduction_title: yes
+         
+      - name: MBTI Personality Profile
+      # https://github.com/yonasuriv/metrics/blob/master/source/plugins/community/16personalities/README.md
+        uses: lowlighter/metrics@latest
+        with:
+          filename: source/plugins/profile.mbti.svg # metrics.plugin.16personalities.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_16personalities: yes
+          plugin_16personalities_scores: yes
+          plugin_16personalities_sections: personality, profile, traits
+          plugin_16personalities_url: https://www.16personalities.com/profiles/b293e70d24e12
+
+      - name: Steam Profile
+      # https://github.com/yonasuriv/metrics/blob/master/source/plugins/steam/README.md
+        uses: lowlighter/metrics@latest
+        with:
+          filename: source/plugins/profile.steam-most
+          token: NOT_NEEDED
+          base: ""
+          plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
+          plugin_steam: yes
+          plugin_steam_user: ${{ secrets.STEAM_USER }} # 0
+          plugin_steam_sections: player, most-played # can be player, most-played, recently-played
+          plugin_steam_games_limit: 8
+          plugin_steam_recent_games_limit: 0
+          plugin_steam_achievements_limit: 0
+
+      - name: Spotify Profile
+      # https://github.com/yonasuriv/metrics/blob/master/source/plugins/music/README.md
+        uses: lowlighter/metrics@latest
+        with:
+          filename: source/plugins/profile.spotify.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_music: yes
+          plugin_music_provider: spotify
+          # plugin_music_token: ${{ secrets.SPOTIFY_TOKENS }}
+          # plugin_music_user: 
+          plugin_music_limit: 4
+          plugin_music_mode: top # can be playlist (random track from url), recent or top (artists/tracks)
+          plugin_music_top_type: artists # can be artists or tracks
+          plugin_music_time_range: long # can be short (1 month), medium (6 months) or long (all time)
+          plugin_music_playlist: https://open.spotify.com/embed/playlist/6VaxKvULieRunSsPwq1BVJ
+          
+      - name: RSS Feeds
+      # https://github.com/yonasuriv/metrics/blob/master/source/plugins/rss/README.md
+        uses: lowlighter/metrics@latest
+        with:
+          filename: source/plugins/rss.feed.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_rss: yes
+          plugin_rss_limit: 4
+          plugin_rss_source: https://news.ycombinator.com/rss
+
+      - name: Remove Artifacts
+        run: rm -rf "/github-metrics.svg"

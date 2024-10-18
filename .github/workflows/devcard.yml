@@ -1,4 +1,4 @@
-name: Update Developer's Card
+name: Update Developer Card
 
 permissions:
   contents: write
@@ -8,9 +8,9 @@ on:
   push:
     branches:
       - main
-  schedule: [{cron: "0 16 * * *"}]
-  # schedule:
-  #  - cron: "0 0 * * *"
+  # schedule: [{cron: "0 16 * * *"}]
+  schedule:
+    - cron: "0 0 * * *"
 
 jobs:
   devcard:
@@ -20,7 +20,7 @@ jobs:
         uses: dailydotdev/action-devcard@3.1.0
         with:
           user_id: ${{ secrets.DEVCARD_TOKEN }}
-          commit_message: "Developer's Card Updated"
+          commit_message: "Update ${filename}"
 
       - name: Remove Artifacts
-        run: mv "/devcard.png" "/source/plugins/devcard.png"
+        run: mv "devcard.png" "/source/plugins/devcard.png"

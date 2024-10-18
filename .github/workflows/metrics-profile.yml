@@ -1,0 +1,157 @@
+# This has been forked (security reasons) from lowlighter, all kudos to him
+
+# https://github.com/yonasuriv/metrics/blob/master/source/plugins/README.md
+# To view examples of plugin deployment refer to the examples.yml file
+
+name: Update Metrics (Social)
+
+on:
+  # Think about the planet, no need to update stats too frequently
+  schedule: [{cron: "0 16 * * *"}]
+  
+  # Schedule updates (every 3 hours)
+  # schedule: [{cron: "0 */3 * * *"}]
+  
+  # Lines below let you run workflow manually and on each commit
+  workflow_dispatch:
+  push: {branches: ["master", "main"]}
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    environment: 
+      name: Profile
+    permissions:
+      contents: write
+
+    steps:
+      - name: Base
+        uses: lowlighter/metrics@latest
+        with:
+          # Your GitHub token
+          # The following scopes are required:
+          #  - public_access (default scope)
+          #  - read:user
+          #  - read:org
+          #  - repo
+          # The following additional scopes may be required:
+          #  - read:org      (for organization related metrics)
+          #  - read:user     (for user related data)
+          #  - read:packages (for some packages related data)
+          #  - repo          (optional, if you want to include private repositories)
+          token: ${{ secrets.METRICS_TOKEN }}
+          
+          # Options
+          user: yonasuriv
+          filename: source/plugins/metrics.svg
+          template: classic
+          base: header, activity, community, repositories, metadata
+          base_indepth: yes
+          config_octicon: yes
+          config_order: base:header, base:repositories, metadata, base:habits, base:languages, community
+          config_timezone: Europe/Copenhagen
+          
+          plugin_gists: no
+
+          plugin_activity: no
+          plugin_activity_days: 14
+          plugin_activity_filter: all
+          plugin_activity_limit: 5
+          plugin_activity_load: 300
+          plugin_activity_visibility: all
+
+          repositories_forks: yes
+
+      - name: Lines
+      # https://github.com/yonasuriv/metrics/blob/master/source/plugins/lines/README.md
+        uses: lowlighter/metrics@latest
+        with:
+          filename: source/plugins/lines.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_lines: yes
+          plugin_lines_sections: base
+          plugin_lines_history_limit: 1
+          plugin_lines_repositories_limit: 4
+
+      - name: Contributions Calendar
+      # https://github.com/yonasuriv/metrics/blob/master/source/plugins/calendar/README.md
+        uses: lowlighter/metrics@latest
+        with:
+          filename: source/plugins/contributions-half.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year # can be half-year or full-year
+          
+      - name: Habits
+      # https://github.com/yonasuriv/metrics/blob/master/source/plugins/habits/README.md
+        uses: lowlighter/metrics@latest
+        with:
+          filename: source/plugins/habits.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_habits: yes
+          plugin_habits_charts_type: classic
+          plugin_habits_days: 360
+          plugin_habits_facts: yes
+          plugin_habits_from: 2000
+          plugin_habits_languages_limit: 8
+          plugin_habits_languages_threshold: 0%
+
+      - name: Traffic
+      # https://github.com/yonasuriv/metrics/blob/master/source/plugins/traffic/README.md
+        uses: lowlighter/metrics@latest
+        with:
+          filename: source/plugins/traffic.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_traffic: yes
+
+      - name: Achievements
+      # https://github.com/yonasuriv/metrics/blob/master/source/plugins/achievements/README.md
+        uses: lowlighter/metrics@latest
+        with:
+          filename: source/plugins/achievements-compact.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_achievements: yes
+          plugin_achievements_display: compact # can be detailed or compact
+          plugin_achievements_secrets: yes
+          plugin_achievements_limit: 12 # 0 to disable         
+          plugin_achievements_threshold: C
+          # plugin_achievements_threshold: X # Displays achievements not yet unlocked
+          # plugin_achievements_ignored: 
+            # Options: polyglot, stargazer, sponsor, deployer, member, maintainer, developer, scripter, packager, explorer, infographile, manager
+
+      - name: Featured Repositories
+      # https://github.com/yonasuriv/metrics/blob/master/source/plugins/repositories/README.md
+        uses: lowlighter/metrics@latest
+        with:
+          filename: source/plugins/featured.repos.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_repositories: yes
+          plugin_repositories_featured: yonasuriv/datasonda, yonasuriv/panicsonda, yonasuriv/stringshark, yonasuriv/metrics
+          
+      - name: Stargazers
+      # https://github.com/yonasuriv/metrics/blob/master/source/plugins/stargazers/README.md
+        uses: lowlighter/metrics@latest
+        with:
+          filename: source/plugins/stars.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_stargazers: yes
+          plugin_stargazers_charts: no
+
+      - name: Starred Topics
+      # https://github.com/yonasuriv/metrics/blob/master/source/plugins/stars/README.md
+        uses: lowlighter/metrics@latest
+        with:
+          filename: source/plugins/starred.topics.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_topics: yes
+          # plugin_topics_limit: 0
+          plugin_topics_sort: stars # can be stars, activity, starred (date) or random
+          plugin_topics_mode: icons # can be icons or labels
