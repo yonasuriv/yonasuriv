@@ -47,24 +47,60 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           
           # Options
-          plugin_gists: yes
+          plugin_gists: no
+
+      - name: Lines
+      # -
+        uses: lowlighter/metrics@latest
+        with:
+          filename: source/plugins/Lines.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_lines: yes
+          plugin_lines_sections: base
+          plugin_lines_history_limit: 1
+          plugin_lines_repositories_limit: 4
+
+      - name: Contributions Calendar
+      # -
+        uses: lowlighter/metrics@latest
+        with:
+          filename: source/plugins/Contributions.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year # can be half-year or full-year
+          
+      - name: Habits
+      # -
+        uses: lowlighter/metrics@latest
+        with:
+          filename: source/plugins/Habits.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
           plugin_habits: yes
           plugin_habits_facts: yes
           plugin_habits_charts_type: classic # can be classic or graph
           plugin_habits_days: 14
           plugin_habits_from: 200
-          
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year # can be half-year or full-year
-          
-          plugin_lines: yes
-          plugin_lines_sections: base
-          plugin_lines_history_limit: 1
-          plugin_lines_repositories_limit: 4
-          
-          
-          plugin_traffic: yes
+
+      - name: Programming Languages
+      # -
+        uses: lowlighter/metrics@latest
+        with:
+          filename: source/plugins/Languages.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
           plugin_languages: yes
+
+      - name: Traffic
+      # -
+        uses: lowlighter/metrics@latest
+        with:
+          filename: source/plugins/Traffic.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_traffic: yes
 
       - name: Achievements
       # https://github.com/yonasuriv/metrics/blob/master/source/plugins/achievements/README.md

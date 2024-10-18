@@ -88,25 +88,6 @@ Let's make things happen!
   >
 </a>
 
-<a href="">
-  <image 
-  src="/source/plugins/Achievements.svg"
-  alt="Achievements"
-  width=""
-  align=""
-  >
-</a>
-
-
-<a href="">
-  <image 
-  src="/source/plugins/Profile-MBTI.svg"
-  alt="MBTI Profile"
-  width=""
-  align="right"
-  >
-</a>
-
 <!--
 <a href="">
   <image 
@@ -120,6 +101,51 @@ Let's make things happen!
 
 <a href="">
   <image 
+  src="/source/plugins/Habits.svg"
+  alt="Metrics"
+  width=""
+  align="left"
+  >
+</a>
+
+<a href="">
+  <image 
+  src="/source/plugins/Contributions.svg"
+  alt="Metrics"
+  width=""
+  align="left"
+  >
+</a>
+
+<a href="">
+  <image 
+  src="/source/plugins/Languages.svg"
+  alt="Metrics"
+  width=""
+  align="center"
+  >
+</a>
+
+<a href="">
+  <image 
+  src="/source/plugins/Achievements.svg"
+  alt="Achievements"
+  width=""
+  align="center"
+  >
+</a>
+
+<a href="">
+  <image 
+  src="/source/plugins/Profile-Steam.svg"
+  alt="Steam Profile"
+  width="356"
+  align="right"
+  >
+</a>
+
+<a href="">
+  <image 
   src="/source/plugins/Profile-Spotify.svg"
   alt="Spotify Profile"
   width="256"
@@ -127,12 +153,11 @@ Let's make things happen!
   >
 </a>
 
-
 <a href="">
   <image 
-  src="/source/plugins/Profile-Steam.svg"
-  alt="Steam Profile"
-  width="256"
+  src="/source/plugins/Profile-MBTI.svg"
+  alt="MBTI Profile"
+  width=""
   align="right"
   >
 </a>
