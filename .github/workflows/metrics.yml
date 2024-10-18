@@ -30,8 +30,9 @@ jobs:
         with:
           # user: yonasuriv
           filename: /source/plugins/Metrics.svg
-          # template: classic
-          # base: header, activity, community, repositories, metadata
+          if: ${{ success() || failure() }}
+          template: classic
+          base: header, activity, community, repositories, metadata
           config_timezone: Europe/Copenhagen
           # Your GitHub token
           # The following scopes are required:
@@ -116,7 +117,6 @@ jobs:
       - name: MBTI Personality Profile
       # https://github.com/yonasuriv/metrics/blob/master/source/plugins/community/16personalities/README.md
         uses: yonasuriv/metrics@master
-        if: ${{ success() || failure() }}
         with:
           filename: metrics.plugin.16personalities.svg # /source/plugins/Profile-MBTI.svg
           token: ${{ secrets.METRICS_TOKEN }}
