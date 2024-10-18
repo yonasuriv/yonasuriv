@@ -43,28 +43,27 @@ align="left">
 src="https://api.daily.dev/devcards/v2/jzd0XPKYw5GfG2OJ9TZtJ.png?r=fxd&type=wide"
 href="https://dly.to/149YTwKNEdf"
 alt="Jonathan Di Rico (yonasuriv) Developer Card"
-width="475"
+width="460"
 align="right">
 
 <image 
 src="https://raw.githubusercontent.com/yonasuriv/yonasuriv/refs/heads/main/source/plugins/Languages.svg"
 alt="Languages"
-width="475"
+width=""
 align="right"><br>
-
-
-
 
 <image 
 src="https://raw.githubusercontent.com/yonasuriv/yonasuriv/refs/heads/main/source/plugins/Profile-Steam.svg"
 alt="Steam Profile"
 width=""
 align="left">
+
 <image 
 src="https://raw.githubusercontent.com/yonasuriv/yonasuriv/refs/heads/main/source/plugins/Achievements.svg"
 alt="Achievements"
 width=""
 align="right">
+
 <image 
 src="https://raw.githubusercontent.com/yonasuriv/yonasuriv/refs/heads/main/source/plugins/Profile-MBTI.svg"
 alt="MBTI Profile"
@@ -110,7 +109,7 @@ align="right">
   <image 
   src="https://raw.githubusercontent.com/yonasuriv/yonasuriv/refs/heads/main/source/plugins/RSS-Feed.svg"
   alt="RSS Feeds"
-  width="356"
+  width="300"
   align="right"
   >
 </p>
