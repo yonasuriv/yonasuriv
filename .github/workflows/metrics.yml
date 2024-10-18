@@ -26,7 +26,7 @@ jobs:
 
     steps:
       - name: General Metrics
-        uses: yonasuriv/metrics@master
+        uses: lowlighter/metrics@latest
         with:
           # user: yonasuriv
           filename: /source/plugins/Metrics.svg
@@ -68,7 +68,7 @@ jobs:
 
       - name: Achievements
       # https://github.com/yonasuriv/metrics/blob/master/source/plugins/achievements/README.md
-        uses: yonasuriv/metrics@master
+        uses: lowlighter/metrics@latest
         with:
           filename: /source/plugins/Achievements.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -83,7 +83,7 @@ jobs:
 
       - name: Featured Repositories
       # https://github.com/yonasuriv/metrics/blob/master/source/plugins/repositories/README.md
-        uses: yonasuriv/metrics@master
+        uses: lowlighter/metrics@latest
         with:
           filename: /source/plugins/Featured-Repositories.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -93,7 +93,7 @@ jobs:
           
       - name: Stargazers
       # https://github.com/yonasuriv/metrics/blob/master/source/plugins/stargazers/README.md
-        uses: yonasuriv/metrics@master
+        uses: lowlighter/metrics@latest
         with:
           filename: /source/plugins/Stargazers.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -103,7 +103,7 @@ jobs:
 
       - name: Starred Topics
       # https://github.com/yonasuriv/metrics/blob/master/source/plugins/stars/README.md
-        uses: yonasuriv/metrics@master
+        uses: lowlighter/metrics@latest
         with:
           filename: /source/plugins/Starred-Topics.svg
           token: NOT_NEEDED
@@ -115,7 +115,7 @@ jobs:
           
       - name: MBTI Personality Profile
       # https://github.com/yonasuriv/metrics/blob/master/source/plugins/community/16personalities/README.md
-        uses: yonasuriv/metrics@master
+        uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.16personalities.svg # /source/plugins/Profile-MBTI.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -127,7 +127,7 @@ jobs:
 
       - name: Steam Profile
       # https://github.com/yonasuriv/metrics/blob/master/source/plugins/steam/README.md
-        uses: yonasuriv/metrics@master
+        uses: lowlighter/metrics@latest
         with:
           filename: /source/plugins/Profile-Steam.svg
           token: NOT_NEEDED
@@ -140,7 +140,7 @@ jobs:
 
       - name: Spotify Profile
       # https://github.com/yonasuriv/metrics/blob/master/source/plugins/music/README.md
-        uses: yonasuriv/metrics@master
+        uses: lowlighter/metrics@latest
         with:
           token: NOT_NEEDED
           base: ""
@@ -156,7 +156,7 @@ jobs:
           
       - name: RSS Feeds
       # https://github.com/yonasuriv/metrics/blob/master/source/plugins/rss/README.md
-        uses: yonasuriv/metrics@master
+        uses: lowlighter/metrics@latest
         with:
           filename: /source/plugins/RSS-Feed.svg
           token: NOT_NEEDED
