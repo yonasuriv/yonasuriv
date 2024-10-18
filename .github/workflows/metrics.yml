@@ -1,3 +1,8 @@
+# This has been forked (security reasons) from lowlighter, all kudos to him
+
+# https://github.com/yonasuriv/metrics/blob/master/source/plugins/README.md
+# To view examples of plugin deployment refer to the examples.yml file
+
 name: Update Metrics
 
 on:
@@ -15,7 +20,7 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     environment: 
-      name: PROFILE
+      name: Profile
     permissions:
       contents: write
 
@@ -62,6 +67,7 @@ jobs:
           plugin_languages: yes
 
       - name: Achievements
+      # https://github.com/yonasuriv/metrics/blob/master/source/plugins/achievements/README.md
         uses: yonasuriv/metrics@latest
         with:
           filename: /source/plugins/Achievements.svg
@@ -76,6 +82,7 @@ jobs:
             # Options: polyglot, stargazer, sponsor, deployer, member, maintainer, developer, scripter, packager, explorer, infographile, manager
 
       - name: Featured Repositories
+      # https://github.com/yonasuriv/metrics/blob/master/source/plugins/repositories/README.md
         uses: yonasuriv/metrics@latest
         with:
           filename: /source/plugins/Featured-Repositories.svg
@@ -85,6 +92,7 @@ jobs:
           plugin_repositories_featured: yonasuriv/metrics
           
       - name: Stargazers
+      # https://github.com/yonasuriv/metrics/blob/master/source/plugins/stargazers/README.md
         uses: yonasuriv/metrics@latest
         with:
           filename: /source/plugins/Stargazers.svg
@@ -94,6 +102,7 @@ jobs:
           plugin_stargazers_charts: no
 
       - name: Starred Topics
+      # https://github.com/yonasuriv/metrics/blob/master/source/plugins/stars/README.md
         uses: yonasuriv/metrics@latest
         with:
           filename: /source/plugins/Starred-Topics.svg
@@ -104,12 +113,12 @@ jobs:
           plugin_topics_sort: stars # can be stars, activity, starred (date) or random
           plugin_topics_mode: icons # can be icons or labels
           
-      # PERSONA
       - name: MBTI Personality Profile
+      # https://github.com/yonasuriv/metrics/blob/master/source/plugins/community/16personalities/README.md
         uses: yonasuriv/metrics@latest
         if: ${{ success() || failure() }}
         with:
-          filename: /source/plugins/Profile-MBTI.svg
+          filename: metrics.plugin.16personalities.svg # /source/plugins/Profile-MBTI.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_16personalities: yes
@@ -118,17 +127,20 @@ jobs:
           plugin_16personalities_url: ${{ secrets.MBTI_URL }}
 
       - name: Steam Profile
+      # https://github.com/yonasuriv/metrics/blob/master/source/plugins/steam/README.md
         uses: yonasuriv/metrics@latest
         with:
           filename: /source/plugins/Profile-Steam.svg
           token: NOT_NEEDED
           base: ""
           plugin_steam: yes
-          plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
-          plugin_steam_games_limit: 1
           plugin_steam_user: ${{ secrets.STEAM_USER }} # 0
+          plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
+          plugin_steam_games_limit: 4
+          plugin_steam_recent_games_limit: 0      
 
       - name: Spotify Profile
+      # https://github.com/yonasuriv/metrics/blob/master/source/plugins/music/README.md
         uses: yonasuriv/metrics@latest
         with:
           token: NOT_NEEDED
@@ -144,6 +156,7 @@ jobs:
           plugin_music_playlist: EMBEDDED_URL
           
       - name: RSS Feeds
+      # https://github.com/yonasuriv/metrics/blob/master/source/plugins/rss/README.md
         uses: yonasuriv/metrics@latest
         with:
           filename: /source/plugins/RSS-Feed.svg
