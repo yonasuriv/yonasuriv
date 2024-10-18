@@ -1,5 +1,34 @@
 
-<p align="left">
+
+<p align="center">
+<image 
+src="https://api.daily.dev/devcards/v2/jzd0XPKYw5GfG2OJ9TZtJ.png?r=fxd&type=default"
+href="https://dly.to/149YTwKNEdf"
+alt="Jonathan Di Rico (yonasuriv) Developer Card"
+width="400"
+height=""
+align="right">
+</p>
+
+<!-- ABOUT -->
+<div align="">
+  Hey there! I'm all about tech, AI, and keeping digital spaces safe. 
+  
+  **Adrenaline** is my middle name and **innovation** and **creativity** are my playgrounds.
+  What gets me going? **Curiosity**. 
+  
+  I thrive on discovering new adventures and experiences, and more if they involve challenges.
+  Growing as a professional and as a person is what I'm about.
+  
+  I believe that fiction surpasses reality, and what you can imagine, you can create.
+  And that's the key to make a positive impact in the world, to shape the future. 
+  Always under the foundations of **privacy** and **freedom**.
+  
+  I love being a part of something bigger, especially when it comes to bringing ideas to life.
+  Let's make things happen!
+</div>
+
+<p align="center">
 <image 
     alt="LinkedIn" 
     src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"
@@ -34,6 +63,9 @@
         >
         -->
 </p>
+<br>
+
+---
 
 <image 
 src="https://raw.githubusercontent.com/yonasuriv/yonasuriv/refs/heads/main/source/plugins/metrics.svg"
@@ -41,51 +73,42 @@ alt="Metrics"
 width=""
 align="left">
 
+<br>
 <image 
-src="https://api.daily.dev/devcards/v2/jzd0XPKYw5GfG2OJ9TZtJ.png?r=fxd&type=default"
-href="https://dly.to/149YTwKNEdf"
-alt="Jonathan Di Rico (yonasuriv) Developer Card"
-width="316"
+src="https://raw.githubusercontent.com/yonasuriv/yonasuriv/refs/heads/main/source/plugins/stars.svg"
+alt="Stargazers"
+width="400"
 align="right">
 
 
 <image 
 src="https://raw.githubusercontent.com/yonasuriv/yonasuriv/refs/heads/main/source/plugins/profile.mbti.svg"
 alt="MBTI Profile"
-width="316"
+width="400"
 align="right">
 
 <image 
 src="https://raw.githubusercontent.com/yonasuriv/yonasuriv/refs/heads/main/source/plugins/profile.spotify.svg"
 alt="Spotify Profile"
-width="316"
+width="400"
 align="right">
 
 <image 
 src="https://raw.githubusercontent.com/yonasuriv/yonasuriv/refs/heads/main/source/plugins/profile.steam-base.svg"
 alt="Steam Profile"
-width="316"
+width="400"
 align="right">
 
-<a href="">
-  <image 
-  src="https://raw.githubusercontent.com/yonasuriv/yonasuriv/refs/heads/main/source/plugins/stars.svg"
-  alt="Stargazers"
-  width="316"
-  align="right">
-</a>
+<image src="https://raw.githubusercontent.com/yonasuriv/yonasuriv/refs/heads/main/source/plugins/featured.repos.svg"
+alt="Featured Repositories"
+width="400"
+align="right">
 
 <image 
 src="https://raw.githubusercontent.com/yonasuriv/yonasuriv/refs/heads/main/source/plugins/habits.svg"
 alt="Habits"
-width="316"
-align="right">
-
-<image 
-src="https://raw.githubusercontent.com/yonasuriv/yonasuriv/refs/heads/main/source/plugins/contributions-half.svg"
-alt="Contributions"
-width="316"
-align="right">
+width=""
+align="left">
 
 <image 
 src="https://raw.githubusercontent.com/yonasuriv/yonasuriv/refs/heads/main/source/plugins/languages.indepth.svg"
@@ -93,39 +116,14 @@ alt="Languages"
 width=""
 align="left">
 
-<image src="https://raw.githubusercontent.com/yonasuriv/yonasuriv/refs/heads/main/source/plugins/featured.repos.svg"
-alt="Featured Repositories"
-width="316"
+<image 
+src="https://raw.githubusercontent.com/yonasuriv/yonasuriv/refs/heads/main/source/plugins/rss.feed.svg"
+alt="RSS Feeds"
+width="400"
 align="right">
-
-
 
 <image 
 src="https://raw.githubusercontent.com/yonasuriv/yonasuriv/refs/heads/main/source/plugins/achievements-compact.svg"
 alt="Achievements"
 width=""
 align="left">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<a href="">
-  <image 
-  src="https://raw.githubusercontent.com/yonasuriv/yonasuriv/refs/heads/main/source/plugins/rss.feed.svg"
-  alt="RSS Feeds"
-  width="3"
-  align=""
-  >
-</p>
-

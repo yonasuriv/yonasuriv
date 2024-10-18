@@ -3,7 +3,7 @@
 # https://github.com/yonasuriv/metrics/blob/master/source/plugins/README.md
 # To view examples of plugin deployment refer to the examples.yml file
 
-name: Update Metrics
+name: Update Metrics (social)
 
 on:
   # Think about the planet, no need to update stats too frequently
@@ -93,9 +93,9 @@ jobs:
           # plugin_music_token: ${{ secrets.SPOTIFY_TOKENS }}
           # plugin_music_user: 
           plugin_music_limit: 4
-          plugin_music_mode: top # can be playlist (random track from url), recent or top (artists/tracks)
-          plugin_music_top_type: artists # can be artists or tracks
-          plugin_music_time_range: long # can be short (1 month), medium (6 months) or long (all time)
+          plugin_music_mode: playlist # can be playlist (random track from url), recent or top (artists/tracks)
+          plugin_music_top_type: tracks # can be artists or tracks
+          # plugin_music_time_range: long # can be short (1 month), medium (6 months) or long (all time)
           plugin_music_playlist: https://open.spotify.com/embed/playlist/6VaxKvULieRunSsPwq1BVJ
           
       - name: RSS Feeds
@@ -106,7 +106,7 @@ jobs:
           token: NOT_NEEDED
           base: ""
           plugin_rss: yes
-          plugin_rss_limit: 4
+          plugin_rss_limit: 7
           plugin_rss_source: https://news.ycombinator.com/rss
 
       - name: Remove Artifacts

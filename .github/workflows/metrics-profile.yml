@@ -3,7 +3,7 @@
 # https://github.com/yonasuriv/metrics/blob/master/source/plugins/README.md
 # To view examples of plugin deployment refer to the examples.yml file
 
-name: Update Metrics (Social)
+name: Update Metrics (Profile)
 
 on:
   # Think about the planet, no need to update stats too frequently

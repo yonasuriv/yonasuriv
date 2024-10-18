@@ -23,4 +23,4 @@ jobs:
           commit_message: "Update ${filename}"
 
       - name: Remove Artifacts
-        run: mv "devcard.png" "/source/plugins/devcard.png"
+        run: mv "/tmp/devcard.png" "/source/plugins/devcard.png"
