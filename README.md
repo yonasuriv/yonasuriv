@@ -36,7 +36,7 @@
 </p>
 
 <image 
-src="https://raw.githubusercontent.com/yonasuriv/yonasuriv/refs/heads/main/source/plugins/mtrics.svg"
+src="https://raw.githubusercontent.com/yonasuriv/yonasuriv/refs/heads/main/source/plugins/metrics.svg"
 alt="Metrics"
 width=""
 align="left">
@@ -49,7 +49,7 @@ alt="Jonathan Di Rico (yonasuriv) Developer Card"
 width="316"
 align="right">
 <image 
-src="https://raw.githubusercontent.com/yonasuriv/yonasuriv/refs/heads/main/source/plugins/profile.steam.svg"
+src="https://raw.githubusercontent.com/yonasuriv/yonasuriv/refs/heads/main/source/plugins/profile.steam-base.svg"
 alt="Steam Profile"
 width=""
 align="left">
@@ -85,7 +85,7 @@ width=""
 align="left">
 
 <image 
-src="https://raw.githubusercontent.com/yonasuriv/yonasuriv/refs/heads/main/source/plugins/contributions-full.svg"
+src="https://raw.githubusercontent.com/yonasuriv/yonasuriv/refs/heads/main/source/plugins/contributions-half.svg"
 alt="Contributions"
 width=""
 align="left">
