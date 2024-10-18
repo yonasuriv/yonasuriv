@@ -88,50 +88,12 @@ Let's make things happen!
   >
 </a>
 
-<!--
 <a href="">
   <image 
-  src="/source/plugins/Stargazers.svg"
-  alt="Stargazers"
+  src="/source/plugins/Featured.svg"
+  alt="Featured Repositories"
   width=""
-  align="left"
-  >
-</a>
--->
-
-<a href="">
-  <image 
-  src="/source/plugins/Habits.svg"
-  alt="Metrics"
-  width=""
-  align="left"
-  >
-</a>
-
-<a href="">
-  <image 
-  src="/source/plugins/Contributions.svg"
-  alt="Metrics"
-  width=""
-  align="left"
-  >
-</a>
-
-<a href="">
-  <image 
-  src="/source/plugins/Languages.svg"
-  alt="Metrics"
-  width=""
-  align="center"
-  >
-</a>
-
-<a href="">
-  <image 
-  src="/source/plugins/Achievements.svg"
-  alt="Achievements"
-  width=""
-  align="center"
+  align="right"
   >
 </a>
 
@@ -161,13 +123,55 @@ Let's make things happen!
   align="right"
   >
 </a>
-    
+
+<!--
 <a href="">
   <image 
-  src="/source/plugins/Featured.svg"
-  alt="Featured Repositories"
+  src="/source/plugins/Stargazers.svg"
+  alt="Stargazers"
   width=""
-  align="right"
+  align="left"
+  >
+</a>
+-->
+
+<a href="">
+  <image 
+  src="/source/plugins/Habits.svg"
+  alt="Metrics"
+  width=""
+  align="left"
+  >
+</a>
+
+<a href="">
+  <image 
+  src="/source/plugins/Contributions.svg"
+  alt="Metrics"
+  width=""
+  align="left"
+  >
+</a>
+
+---
+
+<a href="">
+  <image 
+  src="/source/plugins/Languages.svg"
+  alt="Metrics"
+  width=""
+  align="center"
+  >
+</a>
+
+---
+
+<a href="">
+  <image 
+  src="/source/plugins/Achievements.svg"
+  alt="Achievements"
+  width=""
+  align="center"
   >
 </a>
 
