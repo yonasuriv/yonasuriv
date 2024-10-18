@@ -136,7 +136,7 @@ jobs:
           plugin_steam: yes
           plugin_steam_user: ${{ secrets.STEAM_USER }} # 0
           plugin_steam_sections: player # can be player, most-played, recently-played
-          plugin_steam_games_limit: 4
+          plugin_steam_games_limit: 0
           plugin_steam_recent_games_limit: 0
           plugin_steam_achievements_limit: 0
 
@@ -144,6 +144,7 @@ jobs:
       # https://github.com/yonasuriv/metrics/blob/master/source/plugins/music/README.md
         uses: lowlighter/metrics@latest
         with:
+          filename: source/plugins/Profile-Spotify.svg
           token: NOT_NEEDED
           base: ""
           plugin_music: no

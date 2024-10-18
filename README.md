@@ -90,6 +90,16 @@ Let's make things happen!
 
 <a href="">
   <image 
+  src="/source/plugins/Achievements.svg"
+  alt="Achievements"
+  width=""
+  align=""
+  >
+</a>
+
+
+<a href="">
+  <image 
   src="/source/plugins/Profile-MBTI.svg"
   alt="MBTI Profile"
   width=""
