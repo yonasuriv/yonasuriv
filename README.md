@@ -162,6 +162,15 @@ Let's make things happen!
   >
 </a>
     
+<a href="">
+  <image 
+  src="/source/plugins/Featured.svg"
+  alt="Featured Repositories"
+  width=""
+  align="right"
+  >
+</a>
+
 <!--
 <a href="">
   <image 
