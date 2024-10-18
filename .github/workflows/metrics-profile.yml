@@ -43,7 +43,7 @@ jobs:
           
           # Options
           user: yonasuriv
-          filename: source/plugins/metrics.svg
+          filename: source/plugins/metrics-full.svg
           template: classic
           base: header, activity, community, repositories, metadata
           base_indepth: yes
@@ -51,46 +51,22 @@ jobs:
           config_order: base:header, base:repositories, metadata, base:habits, base:languages, community
           config_timezone: Europe/Copenhagen
           
-          plugin_gists: no
+          # plugin_gists: no
 
-          plugin_activity: no
-          plugin_activity_days: 14
-          plugin_activity_filter: all
-          plugin_activity_limit: 5
-          plugin_activity_load: 300
-          plugin_activity_visibility: all
+          # plugin_activity: no
+          # plugin_activity_days: 14
+          # plugin_activity_filter: all
+          # plugin_activity_limit: 5
+          # plugin_activity_load: 300
+          # plugin_activity_visibility: all
 
           repositories_forks: yes
 
-      - name: Lines
-      # https://github.com/yonasuriv/metrics/blob/master/source/plugins/lines/README.md
-        uses: lowlighter/metrics@latest
-        with:
-          filename: source/plugins/lines.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
           plugin_lines: yes
           plugin_lines_sections: base
           plugin_lines_history_limit: 1
           plugin_lines_repositories_limit: 4
 
-      - name: Contributions Calendar
-      # https://github.com/yonasuriv/metrics/blob/master/source/plugins/calendar/README.md
-        uses: lowlighter/metrics@latest
-        with:
-          filename: source/plugins/contributions-half.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year # can be half-year or full-year
-          
-      - name: Habits
-      # https://github.com/yonasuriv/metrics/blob/master/source/plugins/habits/README.md
-        uses: lowlighter/metrics@latest
-        with:
-          filename: source/plugins/habits.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
           plugin_habits: yes
           plugin_habits_charts_type: classic
           plugin_habits_days: 360
@@ -99,14 +75,56 @@ jobs:
           plugin_habits_languages_limit: 8
           plugin_habits_languages_threshold: 0%
 
-      - name: Traffic
-      # https://github.com/yonasuriv/metrics/blob/master/source/plugins/traffic/README.md
-        uses: lowlighter/metrics@latest
-        with:
-          filename: source/plugins/traffic.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
           plugin_traffic: yes
+
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+
+      # - name: Lines
+      # # https://github.com/yonasuriv/metrics/blob/master/source/plugins/lines/README.md
+      #   uses: lowlighter/metrics@latest
+      #   with:
+      #     filename: source/plugins/lines.svg
+      #     token: ${{ secrets.METRICS_TOKEN }}
+      #     base: ""
+      #     plugin_lines: yes
+      #     plugin_lines_sections: base
+      #     plugin_lines_history_limit: 1
+      #     plugin_lines_repositories_limit: 4
+
+      # - name: Contributions Calendar
+      # # https://github.com/yonasuriv/metrics/blob/master/source/plugins/calendar/README.md
+      #   uses: lowlighter/metrics@latest
+      #   with:
+      #     filename: source/plugins/contributions-half.svg
+      #     token: ${{ secrets.METRICS_TOKEN }}
+      #     base: ""
+      #     plugin_isocalendar: yes
+      #     plugin_isocalendar_duration: half-year # can be half-year or full-year
+          
+      # - name: Habits
+      # # https://github.com/yonasuriv/metrics/blob/master/source/plugins/habits/README.md
+      #   uses: lowlighter/metrics@latest
+      #   with:
+      #     filename: source/plugins/habits.svg
+      #     token: ${{ secrets.METRICS_TOKEN }}
+      #     base: ""
+      #     plugin_habits: yes
+      #     plugin_habits_charts_type: classic
+      #     plugin_habits_days: 360
+      #     plugin_habits_facts: yes
+      #     plugin_habits_from: 2000
+      #     plugin_habits_languages_limit: 8
+      #     plugin_habits_languages_threshold: 0%
+
+      # - name: Traffic
+      # # https://github.com/yonasuriv/metrics/blob/master/source/plugins/traffic/README.md
+      #   uses: lowlighter/metrics@latest
+      #   with:
+      #     filename: source/plugins/traffic.svg
+      #     token: ${{ secrets.METRICS_TOKEN }}
+      #     base: ""
+      #     plugin_traffic: yes
 
       - name: Achievements
       # https://github.com/yonasuriv/metrics/blob/master/source/plugins/achievements/README.md

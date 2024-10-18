@@ -5,7 +5,7 @@
 src="https://api.daily.dev/devcards/v2/jzd0XPKYw5GfG2OJ9TZtJ.png?r=fxd&type=default"
 href="https://dly.to/149YTwKNEdf"
 alt="Jonathan Di Rico (yonasuriv) Developer Card"
-width="400"
+width="45%"
 height=""
 align="right">
 </p>
@@ -65,6 +65,14 @@ align="right">
 </p>
 <br>
 
+<p align="center">
+  <image 
+  src="https://readme-typing-svg.herokuapp.com?color=d90081&lines=Are+you+a+one+or+a+zero%3F"
+  alt="Are you a one or a zero?"
+  width="80%"
+  href="#"  >
+</p>
+
 ---
 
 <image 
@@ -77,31 +85,31 @@ align="left">
 <image 
 src="https://raw.githubusercontent.com/yonasuriv/yonasuriv/refs/heads/main/source/plugins/stars.svg"
 alt="Stargazers"
-width="400"
+width="45%"
 align="right">
 
 
 <image 
 src="https://raw.githubusercontent.com/yonasuriv/yonasuriv/refs/heads/main/source/plugins/profile.mbti.svg"
 alt="MBTI Profile"
-width="400"
+width="45%"
 align="right">
 
 <image 
 src="https://raw.githubusercontent.com/yonasuriv/yonasuriv/refs/heads/main/source/plugins/profile.spotify.svg"
 alt="Spotify Profile"
-width="400"
+width="45%"
 align="right">
 
 <image 
 src="https://raw.githubusercontent.com/yonasuriv/yonasuriv/refs/heads/main/source/plugins/profile.steam-base.svg"
 alt="Steam Profile"
-width="400"
+width="45%"
 align="right">
 
 <image src="https://raw.githubusercontent.com/yonasuriv/yonasuriv/refs/heads/main/source/plugins/featured.repos.svg"
 alt="Featured Repositories"
-width="400"
+width="45%"
 align="right">
 
 <image 
@@ -119,7 +127,7 @@ align="left">
 <image 
 src="https://raw.githubusercontent.com/yonasuriv/yonasuriv/refs/heads/main/source/plugins/rss.feed.svg"
 alt="RSS Feeds"
-width="400"
+width="45%"
 align="right">
 
 <image 
