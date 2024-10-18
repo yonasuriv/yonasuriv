@@ -68,6 +68,9 @@ I love being a part of something bigger, especially when it comes to bringing id
 Let's make things happen!
 
 <!-- QUOTE -->
+
+---
+
 <br><br>
 <p align="center">
   <image 
@@ -77,6 +80,8 @@ Let's make things happen!
   href="#"
   >
 </p>
+
+---
 
 <!-- METRICS -->
 <a href="">
@@ -92,7 +97,7 @@ Let's make things happen!
   <image 
   src="/source/plugins/Featured.svg"
   alt="Featured Repositories"
-  width=""
+  width="256"
   align="right"
   >
 </a>
@@ -101,7 +106,7 @@ Let's make things happen!
   <image 
   src="/source/plugins/Profile-Steam.svg"
   alt="Steam Profile"
-  width="356"
+  width="256"
   align="right"
   >
 </a>
@@ -119,7 +124,7 @@ Let's make things happen!
   <image 
   src="/source/plugins/Profile-MBTI.svg"
   alt="MBTI Profile"
-  width=""
+  width="256"
   align="right"
   >
 </a>
