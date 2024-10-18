@@ -46,7 +46,7 @@ align="left">
 src="https://api.daily.dev/devcards/v2/jzd0XPKYw5GfG2OJ9TZtJ.png?r=fxd&type=default"
 href="https://dly.to/149YTwKNEdf"
 alt="Jonathan Di Rico (yonasuriv) Developer Card"
-width="336"
+width="316"
 align="right">
 <image 
 src="https://raw.githubusercontent.com/yonasuriv/yonasuriv/refs/heads/main/source/plugins/Profile-Steam.svg"
@@ -63,7 +63,7 @@ align="left">
 <image 
 src="https://raw.githubusercontent.com/yonasuriv/yonasuriv/refs/heads/main/source/plugins/Languages.svg"
 alt="Languages"
-width="336"
+width="316"
 align="right">
 
 <image 
@@ -75,7 +75,7 @@ align="left">
 <image 
 src="https://raw.githubusercontent.com/yonasuriv/yonasuriv/refs/heads/main/source/plugins/Achievements.svg"
 alt="Achievements"
-width="336"
+width="316"
 align="right">
 
 
