@@ -70,7 +70,7 @@ jobs:
       # https://github.com/yonasuriv/metrics/blob/master/source/plugins/achievements/README.md
         uses: lowlighter/metrics@latest
         with:
-          filename: Achievements.svg
+          filename: source/plugins/Achievements.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_achievements: yes
@@ -85,7 +85,7 @@ jobs:
       # https://github.com/yonasuriv/metrics/blob/master/source/plugins/repositories/README.md
         uses: lowlighter/metrics@latest
         with:
-          filename: Featured-Repositories.svg
+          filename: source/plugins/Featured-Repositories.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_repositories: yes
@@ -95,7 +95,7 @@ jobs:
       # https://github.com/yonasuriv/metrics/blob/master/source/plugins/stargazers/README.md
         uses: lowlighter/metrics@latest
         with:
-          filename: Stargazers.svg
+          filename: source/plugins/Stargazers.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_stargazers: no
@@ -105,7 +105,7 @@ jobs:
       # https://github.com/yonasuriv/metrics/blob/master/source/plugins/stars/README.md
         uses: lowlighter/metrics@latest
         with:
-          filename: Starred-Topics.svg
+          filename: source/plugins/Starred-Topics.svg
           token: NOT_NEEDED
           base: ""
           plugin_topics: yes
@@ -117,7 +117,7 @@ jobs:
       # https://github.com/yonasuriv/metrics/blob/master/source/plugins/community/16personalities/README.md
         uses: lowlighter/metrics@latest
         with:
-          filename: Profile-MBTI.svg # metrics.plugin.16personalities.svg
+          filename: source/plugins/Profile-MBTI.svg # metrics.plugin.16personalities.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_16personalities: yes
@@ -129,15 +129,16 @@ jobs:
       # https://github.com/yonasuriv/metrics/blob/master/source/plugins/steam/README.md
         uses: lowlighter/metrics@latest
         with:
-          filename: Profile-Steam.svg
+          filename: source/plugins/Profile-Steam.svg
           token: NOT_NEEDED
           base: ""
           plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
           plugin_steam: yes
           plugin_steam_user: ${{ secrets.STEAM_USER }} # 0
-          plugin_steam_sections: player, most-played # can be player, most-played, recently-played
+          plugin_steam_sections: player # can be player, most-played, recently-played
           plugin_steam_games_limit: 4
-          plugin_steam_recent_games_limit: 0      
+          plugin_steam_recent_games_limit: 0
+          plugin_steam_achievements_limit: 0
 
       - name: Spotify Profile
       # https://github.com/yonasuriv/metrics/blob/master/source/plugins/music/README.md
@@ -159,9 +160,12 @@ jobs:
       # https://github.com/yonasuriv/metrics/blob/master/source/plugins/rss/README.md
         uses: lowlighter/metrics@latest
         with:
-          filename: RSS-Feed.svg
+          filename: source/plugins/RSS-Feed.svg
           token: NOT_NEEDED
           base: ""
           plugin_rss: no
           plugin_rss_limit: 4
           plugin_rss_source: https://news.ycombinator.com/rss
+
+      - name: Remove Artifacts
+        run: rm -rf github-metrics.svg

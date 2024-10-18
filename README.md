@@ -111,7 +111,7 @@ Let's make things happen!
 <!--
 <a href="">
   <image 
-  src="/source/plugins//Profile-Spotify.svg"
+  src="/source/plugins/Profile-Spotify.svg"
   alt="Spotify Profile"
   width="356"
   align="right"
