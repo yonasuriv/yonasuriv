@@ -5,9 +5,9 @@
 src="https://api.daily.dev/devcards/v2/jzd0XPKYw5GfG2OJ9TZtJ.png?r=fxd&type=default"
 href="https://dly.to/149YTwKNEdf"
 alt="Jonathan Di Rico (yonasuriv) Developer Card"
-width="40%"
+width="75%"
 height=""
-align="right">
+align="">
 </p>
 
 <!-- ABOUT -->
@@ -80,68 +80,68 @@ src="https://raw.githubusercontent.com/yonasuriv/yonasuriv/refs/heads/main/sourc
 alt="Metrics"
 width=""
 href=""
-align="left">
+align="">
 
 <br>
 <image 
 src="https://raw.githubusercontent.com/yonasuriv/yonasuriv/refs/heads/main/source/plugins/stars.svg"
 alt="Stargazers"
-width="40%"
+width="75%"
 href=""
-align="right">
+align="">
 
 
 <image 
 src="https://raw.githubusercontent.com/yonasuriv/yonasuriv/refs/heads/main/source/plugins/mbti.profile.svg"
 alt="MBTI Profile"
-width="40%"
+width="75%"
 href=""
-align="right">
+align="">
 
 <!-- <image 
 src="https://raw.githubusercontent.com/yonasuriv/yonasuriv/refs/heads/main/source/plugins/profile.spotify.svg"
 alt="Spotify Profile"
-width="40%"
+width="75%"
 href=""
-align="right"> -->
+align=""> -->
 
 <image 
 src="https://raw.githubusercontent.com/yonasuriv/yonasuriv/refs/heads/main/source/plugins/profile.steam-base.svg"
 alt="Steam Profile"
-width="40%"
+width="75%"
 href=""
-align="right">
+align="">
 
 <image src="https://raw.githubusercontent.com/yonasuriv/yonasuriv/refs/heads/main/source/plugins/featured.repos.svg"
 alt="Featured Repositories"
-width="40%"
+width="75%"
 href=""
-align="right">
+align="">
 
 <image 
 src="https://raw.githubusercontent.com/yonasuriv/yonasuriv/refs/heads/main/source/plugins/habits.svg"
 alt="Habits"
 width=""
 href=""
-align="left">
+align="">
 
 <image 
 src="https://raw.githubusercontent.com/yonasuriv/yonasuriv/refs/heads/main/source/plugins/languages.indepth.svg"
 alt="Languages"
 width=""
 href=""
-align="left">
+align="">
 
 <image 
 src="https://raw.githubusercontent.com/yonasuriv/yonasuriv/refs/heads/main/source/plugins/rss.feed.svg"
 alt="RSS Feeds"
-width="40%"
+width="75%"
 href=""
-align="right">
+align="">
 
 <image 
 src="https://raw.githubusercontent.com/yonasuriv/yonasuriv/refs/heads/main/source/plugins/achievements-compact.svg"
 alt="Achievements"
 width=""
 href=""
-align="left">
+align="">
