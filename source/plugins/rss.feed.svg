@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Yggdrasil Network</div>
-                                <div class="date">16 Nov 2024</div>
+                                <div class="title">Everything Is Just Functions: Mind-Blowing Insights from SICP and David Beazley</div>
+                                <div class="date">17 Nov 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">A Case Against the Placebo Effect</div>
-                                <div class="date">16 Nov 2024</div>
+                                <div class="title">Bpftune uses BPF to auto-tune Linux systems</div>
+                                <div class="date">17 Nov 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,16 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Kyanos: eBPF-based network issue analysis tool</div>
-                                <div class="date">16 Nov 2024</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Biological Miracle – Wood Frog</div>
+                                <div class="title">The bucket brigade device: An analog shift register</div>
                                 <div class="date">15 Nov 2024</div>
                             </div>
                         </div>
@@ -56,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Show HN: Android Dev Quest – A puzzle game solvable only using developer tools</div>
-                                <div class="date">16 Nov 2024</div>
+                                <div class="title">All-in-one embedding model for interleaved text, images, and screenshots</div>
+                                <div class="date">17 Nov 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -65,8 +56,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Nixie Tubes (2015)</div>
-                                <div class="date">10 Nov 2024</div>
+                                <div class="title">Constraints in Go</div>
+                                <div class="date">17 Nov 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -74,8 +65,17 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">MomBoard: E-ink display for a parent with amnesia</div>
-                                <div class="date">14 Nov 2024</div>
+                                <div class="title">Garak, LLM Vulnerability Scanner</div>
+                                <div class="date">17 Nov 2024</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Claude AI built me a React app to compare maps side by side</div>
+                                <div class="date">17 Nov 2024</div>
                             </div>
                         </div>
                     </section>
