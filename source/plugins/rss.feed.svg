@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">This open problem taught me what topology is [video]</div>
-                                <div class="date">25 Dec 2024</div>
+                                <div class="title">Blackcandy: Self hosted music streaming server</div>
+                                <div class="date">26 Dec 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -29,16 +29,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The Software You Need for Holiday Overdecoration</div>
-                                <div class="date">23 Dec 2024</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">When power cycling your (x86) server isn't enough to recover it</div>
+                                <div class="title">Cognitive load is what matters</div>
                                 <div class="date">22 Dec 2024</div>
                             </div>
                         </div>
@@ -47,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Show HN: I made a website to semantically search ArXiv papers</div>
-                                <div class="date">25 Dec 2024</div>
+                                <div class="title">Unorm and SNORM to float, hardware edition</div>
+                                <div class="date">24 Dec 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -56,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Bit Vectors and my first steps into assembly</div>
-                                <div class="date">22 Dec 2024</div>
+                                <div class="title">Differential Growth Addon for Blender</div>
+                                <div class="date">26 Dec 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -65,8 +56,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Navtive FlameGraphViewer</div>
-                                <div class="date">23 Dec 2024</div>
+                                <div class="title">A Minecraft server written in COBOL</div>
+                                <div class="date">26 Dec 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -74,8 +65,17 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">CRT Simulation in a GPU Shader, Looks Better Than Black Frame Insertion</div>
-                                <div class="date">25 Dec 2024</div>
+                                <div class="title">Show HN: A singing synthesizer for the browser with automatic 3-part harmony</div>
+                                <div class="date">26 Dec 2024</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Siyuan: Privacy-first, self-hosted personal knowledge management software</div>
+                                <div class="date">26 Dec 2024</div>
                             </div>
                         </div>
                     </section>
