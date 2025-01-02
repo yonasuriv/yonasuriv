@@ -45,10 +45,10 @@ jobs:
           user: yonasuriv
           filename: source/plugins/about.svg
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: activity, community, repositories, metadata
           base_indepth: yes
           config_octicon: yes
-          config_order: base:header, base:repositories, metadata, base:habits, base:languages, community
+          config_order: base:repositories, metadata, base:habits, base:languages, community
           config_timezone: Europe/Copenhagen
 
           plugin_introduction: yes
