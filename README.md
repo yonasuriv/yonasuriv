@@ -76,21 +76,6 @@ align="right">
         -->
 </div><br>
 
-<!-- SELF -->
-<table style="width: 100%; border-collapse: collapse;">
-  <tr>
-    <td style="width: 50%; text-align: right; vertical-align: top; padding: 10px;">
-      <img src="https://raw.githubusercontent.com/yonasuriv/yonasuriv/refs/heads/main/source/plugins/mbti.profile.svg" 
-           alt="MBTI Profile" 
-           style="width: 100%; max-width: 100%; margin-top: 10px;">
-    </td>
-    <td style="width: 50%; text-align: left; vertical-align: top; padding: 10px;">
-        <img src="https://raw.githubusercontent.com/yonasuriv/yonasuriv/refs/heads/main/source/plugins/profile.steam-base.svg" 
-           alt="Steam" 
-           style="width: 100%; max-width: 100%;">
-    </td>
-  </tr>
-</table>
 <!-- STATS -->
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
@@ -99,13 +84,14 @@ align="right">
            alt="Metrics" 
            style="width: 100%; max-width: 100%;">
     </td>
-    <td style="width: 50%; text-align: left; vertical-align: top; padding: 10px;">
+    <td style="width: 50%; text-align: center; vertical-align: top; padding: 10px;">
         <img src="https://raw.githubusercontent.com/yonasuriv/yonasuriv/refs/heads/main/source/plugins/achievements-compact.svg" 
            alt="Achievements" 
            style="width: 100%; max-width: 100%; margin-top: 10px;">
     </td>
   </tr>
 </table>
+
 <!-- CODING -->
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
@@ -121,7 +107,24 @@ align="right">
     </td>
   </tr>
 </table>
-<!-- RSS -->
+
+<!-- SELF -->
+<table style="width: 100%; border-collapse: collapse;">
+  <tr>
+    <td style="width: 50%; text-align: right; vertical-align: top; padding: 10px;">
+      <img src="https://raw.githubusercontent.com/yonasuriv/yonasuriv/refs/heads/main/source/plugins/mbti.profile.svg" 
+           alt="MBTI Profile" 
+           style="width: 100%; max-width: 100%; margin-top: 10px;">
+    </td>
+    <td style="width: 50%; text-align: left; vertical-align: top; padding: 10px;">
+        <img src="https://raw.githubusercontent.com/yonasuriv/yonasuriv/refs/heads/main/source/plugins/profile.steam-base.svg" 
+           alt="Steam" 
+           style="width: 100%; max-width: 100%;">
+    </td>
+  </tr>
+</table>
+
+<!-- RSS & Featured Repos
 <table style="width: 100%;">
   <tr>
     <td style="width: 50%;">
@@ -137,17 +140,20 @@ align="right">
     
   </tr>
 </table>
+-->
 
-<!-- <image 
+<!-- Exp 
+<image 
 src="https://raw.githubusercontent.com/yonasuriv/yonasuriv/refs/heads/main/source/plugins/stars.svg"
 alt="Stargazers"
 width=""
 href=""
-align="right"> -->
+align="right">
 
-<!-- <image 
+<image 
 src="https://raw.githubusercontent.com/yonasuriv/yonasuriv/refs/heads/main/source/plugins/profile.spotify.svg"
 alt="Spotify"
 width=""
 href=""
-align="right"> -->
+align="right"> 
+-->
