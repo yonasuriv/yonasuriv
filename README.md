@@ -10,6 +10,8 @@ height=""
 align="right">
 </p>
  -->
+
+ <br>
 <!-- ABOUT -->
 <div align="">
   Hey there! I'm all about tech, AI, and keeping digital spaces safe. 
@@ -23,12 +25,22 @@ align="right">
   I believe that fiction surpasses reality, and what you can imagine, you can create.
   And that's the key to make a positive impact in the world, to shape the future. 
   Always under the foundations of **privacy** and **freedom**.
-  
-  I love being a part of something bigger, especially when it comes to bringing ideas to life.
-  Let's make things happen!
+  <div align="center"> I love being a part of something bigger, especially when it comes to bringing ideas to life.<br>
+  Let's make things happen.<br></div>
 </div>
 
-<p align="center">
+<!-- TYPING SVG
+<div align="center">
+  <image 
+  src="https://readme-typing-svg.herokuapp.com?color=d90081&lines=Are+you+a+one+or+a+zero%3F"
+  alt="Are you a one or a zero?"
+  width="39%"
+  href="">
+</div>
+-->
+<br>
+<!-- CONTACT -->
+<div align="center">
 <image 
     alt="LinkedIn" 
     src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"
@@ -39,39 +51,30 @@ align="right">
     href="https://www.instagram.com/yonadirico">
 <image 
     alt="GitHub" 
-    src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white"
+    src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white"
     href="https://github.com/yonasuriv">
 <image 
     alt="X" 
-    src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"
+    src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"
     href="https://x.com/yonasuriv">
-    <!--
     <image 
         alt="Mastodon" 
-        src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=mastodon&logoColor=white"
+        src="https://img.shields.io/badge/Mastodon-000000?style=for-the-badge&logo=mastodon&logoColor=white"
         href="https://mastodon.social/@yonasuriv" 
         >
+    <!--
     <image 
         alt="Email" 
-        src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=protonmail&logoColor=white"
+        src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=protonmail&logoColor=white"
         href="mailto:null@yonasuriv.com" 
         >
     <image 
         alt="Website" 
-        src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=dev.to&logoColor=white"
+        src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=dev.to&logoColor=white"
         href="https://www.yonasuriv.com" 
         >
         -->
-</p>
-<br>
-
-<p align="center">
-  <image 
-  src="https://readme-typing-svg.herokuapp.com?color=d90081&lines=Are+you+a+one+or+a+zero%3F"
-  alt="Are you a one or a zero?"
-  width="39%"
-  href="">
-</p>
+</div>
 
 ---
 <!-- SELF -->
