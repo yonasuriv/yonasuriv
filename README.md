@@ -101,7 +101,7 @@ align="right">
            style="width: 100%; max-width: 100%;">
     </td>
     <td style="width: 50%; text-align: center; vertical-align: top; padding: 10px;">
-        <img src="https://raw.githubusercontent.com/yonasuriv/yonasuriv/refs/heads/main/source/plugins/achievements-compact.svg" 
+        <img src="https://raw.githubusercontent.com/yonasuriv/yonasuriv/refs/heads/main/source/plugins/achievements-detailed.svg" 
            alt="Achievements" 
            style="width: 100%; max-width: 100%; margin-top: 10px;">
     </td>
