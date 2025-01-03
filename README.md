@@ -1,5 +1,5 @@
 
-
+<!-- DEV CARD
 <p align="center">
 <image 
 src="https://api.daily.dev/devcards/v2/jzd0XPKYw5GfG2OJ9TZtJ.png?r=fxd&type=default"
@@ -9,7 +9,7 @@ width="35%"
 height=""
 align="right">
 </p>
-
+ -->
 <!-- ABOUT -->
 <div align="">
   Hey there! I'm all about tech, AI, and keeping digital spaces safe. 
