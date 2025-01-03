@@ -13,17 +13,17 @@ align="right">
 
  <br>
 <!-- ABOUT -->
-<div align="">
+<div align="center">
   Hey there! I'm all about tech, AI, and keeping digital spaces safe. 
   
-  **Adrenaline** is my middle name and **innovation** and **creativity** are my playgrounds.
+  **Adrenaline** is my middle name and **innovation** and **creativity** are my playgrounds.\
   What gets me going? **Curiosity**. 
   
-  I thrive on discovering new adventures and experiences, and more if they involve challenges.
+  I thrive on discovering new adventures and experiences, and more if they involve challenges.\
   Growing as a professional and as a person is what I'm about.
   
-  I believe that fiction surpasses reality, and what you can imagine, you can create.
-  And that's the key to make a positive impact in the world, to shape the future. 
+  I believe that fiction surpasses reality, and what you can imagine, you can create.\
+  And that's the key to make a positive impact in the world, to shape the future. \
   Always under the foundations of **privacy** and **freedom**.
   <div align="center"> I love being a part of something bigger, especially when it comes to bringing ideas to life.<br>
   Let's make things happen.<br></div>
