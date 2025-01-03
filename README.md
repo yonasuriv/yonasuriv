@@ -13,7 +13,7 @@ align="right">
 
  <br>
 <!-- ABOUT -->
-<div align="center">
+<div align="">
   Hey there! I'm all about tech, AI, and keeping digital spaces safe. 
   
   **Adrenaline** is my middle name and **innovation** and **creativity** are my playgrounds.\
@@ -25,7 +25,7 @@ align="right">
   I believe that fiction surpasses reality, and what you can imagine, you can create.\
   And that's the key to make a positive impact in the world, to shape the future. \
   Always under the foundations of **privacy** and **freedom**.
-  <div align="center"> I love being a part of something bigger, especially when it comes to bringing ideas to life.<br>
+  <div align=""> I love being a part of something bigger, especially when it comes to bringing ideas to life.<br>
   Let's make things happen.<br></div>
 </div>
 
@@ -40,11 +40,19 @@ align="right">
 -->
 <br>
 <!-- CONTACT -->
+
+[<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">](https://www.linkedin.com/in/yonadirico)
+[<img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">](https://www.instagram.com/yonadirico)
+[<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">](https://github.com/yonasuriv)
+[<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white" alt="X">](https://x.com/yonasuriv)
+[<img src="https://img.shields.io/badge/Mastodon-000000?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon">](https://mastodon.social/@yonasuriv)
+<!-- 
 <div align="center">
 <image 
     alt="LinkedIn" 
+    href="https://www.linkedin.com/in/yonadirico"
     src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"
-    href="https://www.linkedin.com/in/yonadirico">
+ >
 <image 
     alt="Instagram" 
     src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white"
