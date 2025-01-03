@@ -74,73 +74,78 @@ align="right">
 </p>
 
 ---
-
-<image 
-src="https://raw.githubusercontent.com/yonasuriv/yonasuriv/refs/heads/main/source/plugins/metrics.svg"
-alt="Metrics"
-width=""
-href=""
-align="left">
+<!-- SELF -->
+<table style="width: 100%; border-collapse: collapse;">
+  <tr>
+    <td style="width: 50%; text-align: right; vertical-align: top; padding: 10px;">
+      <img src="https://raw.githubusercontent.com/yonasuriv/yonasuriv/refs/heads/main/source/plugins/mbti.profile.svg" 
+           alt="MBTI Profile" 
+           style="width: 100%; max-width: 100%; margin-top: 10px;">
+    </td>
+    <td style="width: 50%; text-align: left; vertical-align: top; padding: 10px;">
+        <img src="https://raw.githubusercontent.com/yonasuriv/yonasuriv/refs/heads/main/source/plugins/profile.steam-base.svg" 
+           alt="Steam" 
+           style="width: 100%; max-width: 100%;">
+    </td>
+  </tr>
+</table>
+<!-- STATS -->
+<table style="width: 100%; border-collapse: collapse;">
+  <tr>
+    <td style="width: 50%; text-align: right; vertical-align: top; padding: 10px;">
+      <img src="https://raw.githubusercontent.com/yonasuriv/yonasuriv/refs/heads/main/source/plugins/metrics.svg" 
+           alt="Metrics" 
+           style="width: 100%; max-width: 100%;">
+    </td>
+    <td style="width: 50%; text-align: left; vertical-align: top; padding: 10px;">
+        <img src="https://raw.githubusercontent.com/yonasuriv/yonasuriv/refs/heads/main/source/plugins/achievements-compact.svg" 
+           alt="Achievements" 
+           style="width: 100%; max-width: 100%; margin-top: 10px;">
+    </td>
+  </tr>
+</table>
+<!-- CODING -->
+<table style="width: 100%; border-collapse: collapse;">
+  <tr>
+    <td style="width: 50%; text-align: right; vertical-align: top; padding: 10px;">
+      <img src="https://raw.githubusercontent.com/yonasuriv/yonasuriv/refs/heads/main/source/plugins/habits.svg" 
+           alt="Coding Habits" 
+           style="width: 100%; max-width: 100%;">
+    </td>
+    <td style="width: 50%; text-align: left; vertical-align: top; padding: 10px;">
+        <img src="https://raw.githubusercontent.com/yonasuriv/yonasuriv/refs/heads/main/source/plugins/languages.indepth.svg" 
+           alt="Programming Languages" 
+           style="width: 100%; max-width: 100%; margin-top: 10px;">
+    </td>
+  </tr>
+</table>
+<!-- RSS -->
+<table style="width: 100%;">
+  <tr>
+    <td style="width: 50%;">
+      <img src="https://raw.githubusercontent.com/yonasuriv/yonasuriv/refs/heads/main/source/plugins/rss.feed.svg" 
+           alt="RSS Feeds" 
+           width="100%">
+    </td>
+    <td style="width: 50%; ">
+      <img src="https://raw.githubusercontent.com/yonasuriv/yonasuriv/refs/heads/main/source/plugins/featured.repos.svg" 
+           alt="Featured Repositories" 
+           width="100%">
+    </td>
+    
+  </tr>
+</table>
 
 <!-- <image 
 src="https://raw.githubusercontent.com/yonasuriv/yonasuriv/refs/heads/main/source/plugins/stars.svg"
 alt="Stargazers"
-width="35%"
+width=""
 href=""
 align="right"> -->
-
-
-<image 
-src="https://raw.githubusercontent.com/yonasuriv/yonasuriv/refs/heads/main/source/plugins/mbti.profile.svg"
-alt="MBTI Profile"
-width="35%"
-href=""
-align="right">
 
 <!-- <image 
 src="https://raw.githubusercontent.com/yonasuriv/yonasuriv/refs/heads/main/source/plugins/profile.spotify.svg"
-alt="Spotify Profile"
-width="35%"
+alt="Spotify"
+width=""
 href=""
 align="right"> -->
-
-<image 
-src="https://raw.githubusercontent.com/yonasuriv/yonasuriv/refs/heads/main/source/plugins/profile.steam-base.svg"
-alt="Steam Profile"
-width="35%"
-href=""
-align="right">
-
-<image src="https://raw.githubusercontent.com/yonasuriv/yonasuriv/refs/heads/main/source/plugins/featured.repos.svg"
-alt="Featured Repositories"
-width="35%"
-href=""
-align="right">
-
-<image 
-src="https://raw.githubusercontent.com/yonasuriv/yonasuriv/refs/heads/main/source/plugins/habits.svg"
-alt="Habits"
-width=""
-href=""
-align="left">
-
-<image 
-src="https://raw.githubusercontent.com/yonasuriv/yonasuriv/refs/heads/main/source/plugins/languages.indepth.svg"
-alt="Languages"
-width=""
-href=""
-align="left">
-
-<image 
-src="https://raw.githubusercontent.com/yonasuriv/yonasuriv/refs/heads/main/source/plugins/rss.feed.svg"
-alt="RSS Feeds"
-width="35%"
-href=""
-align="right">
-
-<image 
-src="https://raw.githubusercontent.com/yonasuriv/yonasuriv/refs/heads/main/source/plugins/achievements-compact.svg"
-alt="Achievements"
-width=""
-href=""
-align="left">
