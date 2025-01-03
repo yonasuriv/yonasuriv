@@ -76,6 +76,22 @@ align="right">
         -->
 </div><br>
 
+<!-- SELF -->
+<table style="width: 100%; border-collapse: collapse;">
+  <tr>
+    <td style="width: 50%; text-align: right; vertical-align: top; padding: 10px;">
+      <img src="https://raw.githubusercontent.com/yonasuriv/yonasuriv/refs/heads/main/source/plugins/mbti.profile.svg" 
+           alt="MBTI Profile" 
+           style="width: 100%; max-width: 100%; margin-top: 10px;">
+    </td>
+    <td style="width: 50%; text-align: left; vertical-align: top; padding: 10px;">
+        <img src="https://raw.githubusercontent.com/yonasuriv/yonasuriv/refs/heads/main/source/plugins/profile.steam-base.svg" 
+           alt="Steam" 
+           style="width: 100%; max-width: 100%;">
+    </td>
+  </tr>
+</table>
+
 <!-- STATS -->
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
@@ -104,22 +120,6 @@ align="right">
         <img src="https://raw.githubusercontent.com/yonasuriv/yonasuriv/refs/heads/main/source/plugins/languages.indepth.svg" 
            alt="Programming Languages" 
            style="width: 100%; max-width: 100%; margin-top: 10px;">
-    </td>
-  </tr>
-</table>
-
-<!-- SELF -->
-<table style="width: 100%; border-collapse: collapse;">
-  <tr>
-    <td style="width: 50%; text-align: right; vertical-align: top; padding: 10px;">
-      <img src="https://raw.githubusercontent.com/yonasuriv/yonasuriv/refs/heads/main/source/plugins/mbti.profile.svg" 
-           alt="MBTI Profile" 
-           style="width: 100%; max-width: 100%; margin-top: 10px;">
-    </td>
-    <td style="width: 50%; text-align: left; vertical-align: top; padding: 10px;">
-        <img src="https://raw.githubusercontent.com/yonasuriv/yonasuriv/refs/heads/main/source/plugins/profile.steam-base.svg" 
-           alt="Steam" 
-           style="width: 100%; max-width: 100%;">
     </td>
   </tr>
 </table>
