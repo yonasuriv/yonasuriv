@@ -1,4 +1,3 @@
-
 <!-- DEV CARD
 <p align="center">
 <image 
@@ -11,8 +10,10 @@ align="right">
 </p>
  -->
 
- <br>
+
+
 <!-- ABOUT -->
+
 <div align="">
   Hey there! I'm all about tech, AI, and keeping digital spaces safe. 
   
@@ -29,6 +30,20 @@ align="right">
   Let's make things happen.<br></div>
 </div>
 
+ <br>
+
+  <!-- CONTACT -->
+[<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">](https://www.linkedin.com/in/yonadirico)
+[<img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">](https://www.instagram.com/yonadirico)
+[<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">](https://github.com/yonasuriv)
+[<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white" alt="X">](https://x.com/yonasuriv)
+[<img src="https://img.shields.io/badge/Mastodon-000000?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon">](https://mastodon.social/@yonasuriv)
+
+<!-- HTB Metrics -->
+<div align="left">
+    <img src="https://private-user-images.githubusercontent.com/59540565/400068044-b7ad88f4-0ca5-4721-95a2-d125ab780dcf.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzYxMjk3MDEsIm5iZiI6MTczNjEyOTQwMSwicGF0aCI6Ii81OTU0MDU2NS80MDAwNjgwNDQtYjdhZDg4ZjQtMGNhNS00NzIxLTk1YTItZDEyNWFiNzgwZGNmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAxMDYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMTA2VDAyMTAwMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWMwMTkxNGZjMTUzMWNhNDg2MDAzMDU4MTYyNjFjOTdkNmM3YjhiNWRkZDgyMGY2MWZjNzViN2RlNWVlZDk2ZjMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.eKzeJ245Ihsh4SEgpk5O1HV7Bxgz73EC0D_ENCEZQKE" width="516">
+</div>
+
 <!-- TYPING SVG
 <div align="center">
   <image 
@@ -39,13 +54,7 @@ align="right">
 </div>
 -->
 <br>
-<!-- CONTACT -->
 
-[<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">](https://www.linkedin.com/in/yonadirico)
-[<img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">](https://www.instagram.com/yonadirico)
-[<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">](https://github.com/yonasuriv)
-[<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white" alt="X">](https://x.com/yonasuriv)
-[<img src="https://img.shields.io/badge/Mastodon-000000?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon">](https://mastodon.social/@yonasuriv)
 <!-- 
 <div align="center">
 <image 
