@@ -41,7 +41,7 @@ align="right">
 
 <!-- HTB Metrics -->
 <div align="left">
-    <img src="https://private-user-images.githubusercontent.com/59540565/400068044-b7ad88f4-0ca5-4721-95a2-d125ab780dcf.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzYxMjk3MDEsIm5iZiI6MTczNjEyOTQwMSwicGF0aCI6Ii81OTU0MDU2NS80MDAwNjgwNDQtYjdhZDg4ZjQtMGNhNS00NzIxLTk1YTItZDEyNWFiNzgwZGNmLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAxMDYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMTA2VDAyMTAwMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWMwMTkxNGZjMTUzMWNhNDg2MDAzMDU4MTYyNjFjOTdkNmM3YjhiNWRkZDgyMGY2MWZjNzViN2RlNWVlZDk2ZjMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.eKzeJ245Ihsh4SEgpk5O1HV7Bxgz73EC0D_ENCEZQKE" width="516">
+    <img src="https://github.com/user-attachments/assets/f12169f2-96da-48d0-b876-46ddb9b992bc" width="516">
 </div>
 
 <!-- TYPING SVG
