@@ -10,8 +10,6 @@ align="right">
 </p>
  -->
 
-
-
 <!-- ABOUT -->
 
 <div align="">
@@ -39,10 +37,11 @@ align="right">
 [<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white" alt="X">](https://x.com/yonasuriv)
 [<img src="https://img.shields.io/badge/Mastodon-000000?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon">](https://mastodon.social/@yonasuriv)
 
-<!-- HTB Metrics -->
+<!-- HTB Metrics 
 <div align="left">
     <img src="https://github.com/user-attachments/assets/f12169f2-96da-48d0-b876-46ddb9b992bc" width="516">
 </div>
+-->
 
 <!-- TYPING SVG
 <div align="center">
