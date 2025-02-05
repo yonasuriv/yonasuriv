@@ -32,11 +32,13 @@ align="right">
 
   <!-- CONTACT -->
 [<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">](https://www.linkedin.com/in/yonadirico)
-[<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">](https://github.com/yonasuriv)
+[<img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" alt="X">](https://x.com/yonasuriv)
 [<img src="https://img.shields.io/badge/Mastodon-000000?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon">](https://mastodon.social/@yonasuriv)
 [<img src="https://img.shields.io/badge/Tumblr-000000?style=for-the-badge&logo=tumblr&logoColor=white" alt="Tumblr">](https://yonasuriv.tumblr.com)
-[<img src="https://img.shields.io/badge/HackTheBox-000000?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00" alt="Hack The Box">](https://app.hackthebox.com/profile/780424)
-<!-- [<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white" alt="X">](https://x.com/) -->
+[<img src="https://img.shields.io/badge/Keybase-000000?style=for-the-badge&logo=keybase&logoColor=white" alt="Keybase">](https://keybase.io/yonasuriv)
+[<img src="https://img.shields.io/badge/CodersRank-000000?style=for-the-badge&logo=codersrank&logoColor=white" alt="CodersRank">](https://profile.codersrank.io/user/yonasuriv/)
+[<img src="https://img.shields.io/badge/HackTheBox-000000?style=for-the-badge&logo=Hack%20The%20Box&logoColor=white" alt="Hack The Box">](https://app.hackthebox.com/profile/780424)
+<!-- [<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">](https://github.com/yonasuriv) -->
 <!-- [<img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">](https://www.instagram.com/) -->
 
 <!-- HTB Metrics 
