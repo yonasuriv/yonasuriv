@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">GPT-4.5: "Not a frontier model"?</div>
-                                <div class="date">2 Mar 2025</div>
+                                <div class="title">The Internals of PostgreSQL</div>
+                                <div class="date">3 Mar 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Raspberry Pi Pico audio player</div>
-                                <div class="date">2 Mar 2025</div>
+                                <div class="title">Youth and what happens when it's gone</div>
+                                <div class="date">3 Mar 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Show HN: I built a modern Goodreads alternative</div>
-                                <div class="date">2 Mar 2025</div>
+                                <div class="title">Show HN: Knowledge graph of restaurants and chefs, built using LLMs</div>
+                                <div class="date">3 Mar 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Google does not want rights to things you do using Chrome (2008)</div>
+                                <div class="title">C1 modem breaks no speed records, but is power efficient</div>
                                 <div class="date">1 Mar 2025</div>
                             </div>
                         </div>
@@ -56,7 +56,16 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The early days of Linux (2023)</div>
+                                <div class="title">Drone Delivery for Defense</div>
+                                <div class="date">3 Mar 2025</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Firefly ‘Blue Ghost’ lunar lander touches down on the moon</div>
                                 <div class="date">2 Mar 2025</div>
                             </div>
                         </div>
@@ -65,17 +74,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">I struggled with Git, so I'm making a game to spare others the pain</div>
-                                <div class="date">2 Mar 2025</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Louis Rossmann opines on the Firefox debacle [video]</div>
-                                <div class="date">2 Mar 2025</div>
+                                <div class="title">An Attempt to Catch Up with JIT Compilers</div>
+                                <div class="date">3 Mar 2025</div>
                             </div>
                         </div>
                     </section>
