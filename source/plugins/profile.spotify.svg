@@ -25,6 +25,13 @@
                             <div class="track">
                                 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
                                 <div class="infos">
+                                    <div class="name">ZOMBIE - TECHNO</div>
+                                    <div class="artist">BASSTON, STRØBE</div>
+                                </div>
+                            </div>
+                            <div class="track">
+                                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
+                                <div class="infos">
                                     <div class="name">Teknocity</div>
                                     <div class="artist">EParkineos, Amygdala, Errä</div>
                                 </div>
@@ -32,22 +39,15 @@
                             <div class="track">
                                 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">444 (La señal)</div>
-                                    <div class="artist">Xina Mora, Fectro, Xema Fuentes</div>
+                                    <div class="name">Distorted Reality</div>
+                                    <div class="artist">Vini Vici, Reinier Zonneveld</div>
                                 </div>
                             </div>
                             <div class="track">
                                 <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
                                 <div class="infos">
-                                    <div class="name">bulletproof tekkno</div>
-                                    <div class="artist">TEKKNO</div>
-                                </div>
-                            </div>
-                            <div class="track">
-                                <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="32" height="32" alt="" />
-                                <div class="infos">
-                                    <div class="name">UNWRITTEN - TECHNO</div>
-                                    <div class="artist">BASSTON, STRØBE</div>
+                                    <div class="name">Bye Bye - Juan Hansen Remix</div>
+                                    <div class="artist">Babasonicos, Juan Hansen</div>
                                 </div>
                             </div>
                         </div>
