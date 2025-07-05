@@ -1,4 +1,4 @@
-# This has been forked (for security reasons) from lowlighter (lowlighter/metrics), all kudos to him
+# This has been forked (for security reasons) from lowlighter (lowlighter/metrics@latest), all kudos to him
 
 # https://github.com/yonasuriv/metrics/blob/master/source/plugins/README.md
 # To view examples of plugin deployment refer to the examples.yml file
@@ -26,7 +26,7 @@ jobs:
 
     steps:
       - name: Base
-        uses: yonasuriv/metrics
+        uses: yonasuriv/metrics@latest
         with:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
@@ -87,8 +87,8 @@ jobs:
           plugin_isocalendar_duration: half-year
 
       - name: Achievements
-      # https://github.com/yonasuriv/metrics/blob/master/source/plugins/achievements/README.md
-        uses: yonasuriv/metrics
+      # https://github.com/yonasuriv/metrics@latest/blob/master/source/plugins/achievements/README.md
+        uses: yonasuriv/metrics@latest
         with:
           filename: source/plugins/achievements-detailed.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -102,9 +102,9 @@ jobs:
           # plugin_achievements_ignored:
           # Options: polyglot, stargazer, sponsor, deployer, member, maintainer, developer, scripter, packager, explorer, infographile, manager
 
-      # https://github.com/yonasuriv/metrics/blob/master/source/plugins/languages/README.md
+      # https://github.com/yonasuriv/metrics@latest/blob/master/source/plugins/languages/README.md
       - name: Programming Languages
-        uses: yonasuriv/metrics
+        uses: yonasuriv/metrics@latest
         with:
           filename: source/plugins/languages.indepth.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -124,9 +124,9 @@ jobs:
           # plugin_languages_analysis_timeout: 30
           # plugin_languages_analysis_timeout_repositories: 5
 
-      # https://github.com/yonasuriv/metrics/blob/master/source/plugins/habits/README.md
+      # https://github.com/yonasuriv/metrics@latest/blob/master/source/plugins/habits/README.md
       - name: Habits
-        uses: yonasuriv/metrics
+        uses: yonasuriv/metrics@latest
         with:
           filename: source/plugins/habits.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -139,19 +139,19 @@ jobs:
           plugin_habits_languages_limit: 8
           plugin_habits_languages_threshold: 0%
 
-      # https://github.com/yonasuriv/metrics/blob/master/source/plugins/repositories/README.md
+      # https://github.com/yonasuriv/metrics@latest/blob/master/source/plugins/repositories/README.md
       - name: Featured Repositories
-        uses: yonasuriv/metrics
+        uses: yonasuriv/metrics@latest
         with:
           filename: source/plugins/featured.repos.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_repositories: yes
-          plugin_repositories_featured: yonasuriv/datasonda, yonasuriv/panicsonda, yonasuriv/stringshark, yonasuriv/metrics
+          plugin_repositories_featured: yonasuriv/datasonda, yonasuriv/panicsonda, yonasuriv/stringshark, yonasuriv/metrics@latest
 
-      # https://github.com/yonasuriv/metrics/blob/master/source/plugins/stargazers/README.md
+      # https://github.com/yonasuriv/metrics@latest/blob/master/source/plugins/stargazers/README.md
       - name: Stargazers
-        uses: yonasuriv/metrics
+        uses: yonasuriv/metrics@latest
         with:
           filename: source/plugins/stars.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -159,9 +159,9 @@ jobs:
           plugin_stargazers: yes
           plugin_stargazers_charts: no
 
-      # https://github.com/yonasuriv/metrics/blob/master/source/plugins/stars/README.md
+      # https://github.com/yonasuriv/metrics@latest/blob/master/source/plugins/stars/README.md
       - name: Starred Topics
-        uses: yonasuriv/metrics
+        uses: yonasuriv/metrics@latest
         with:
           filename: source/plugins/starred.topics.svg
           token: NOT_NEEDED
@@ -171,9 +171,9 @@ jobs:
           plugin_topics_sort: stars # can be stars, activity, starred (date) or random
           plugin_topics_mode: icons # can be icons or labels
 
-      # # https://github.com/yonasuriv/metrics/blob/master/source/plugins/calendar/README.md
+      # # https://github.com/yonasuriv/metrics@latest/blob/master/source/plugins/calendar/README.md
       # - name: Contributions Calendar
-      #   uses: yonasuriv/metrics
+      #   uses: yonasuriv/metrics@latest
       #   with:
       #     filename: source/plugins/contributions-half.svg
       #     token: ${{ secrets.METRICS_TOKEN }}
@@ -182,17 +182,17 @@ jobs:
       #     plugin_isocalendar_duration: half-year # can be half-year or full-year
 
       # - name: Traffic
-      # # https://github.com/yonasuriv/metrics/blob/master/source/plugins/traffic/README.md
-      #   uses: yonasuriv/metrics
+      # # https://github.com/yonasuriv/metrics@latest/blob/master/source/plugins/traffic/README.md
+      #   uses: yonasuriv/metrics@latest
       #   with:
       #     filename: source/plugins/traffic.svg
       #     token: ${{ secrets.METRICS_TOKEN }}
       #     base: ""
       #     plugin_traffic: yes
 
-      # # https://github.com/yonasuriv/metrics/blob/master/source/plugins/lines/README.md
+      # # https://github.com/yonasuriv/metrics@latest/blob/master/source/plugins/lines/README.md
       # - name: Lines
-      #   uses: yonasuriv/metrics
+      #   uses: yonasuriv/metrics@latest
       #   with:
       #     filename: source/plugins/lines.svg
       #     token: ${{ secrets.METRICS_TOKEN }}
