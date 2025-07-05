@@ -35,6 +35,10 @@ align="right">
 <p align="center">
   <kbd>
     <a href="https://www.linkedin.com/in/yonadirico" title="LinkedIn @yonadirico"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  </kbd>
+</p>
+<p align="center">
+  <kbd>
     <a href="https://x.com/yonasuriv" title="X @yonasuriv"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" /></a>
     <a href="https://mastodon.social/@yonasuriv" title="Mastodon @yonadirico"><img src="https://img.shields.io/badge/Mastodon-000000?style=for-the-badge&logo=mastodon&logoColor=white" /></a>
     <a href="https://keybase.io/yonasuriv" title="Key Base @yonasuriv"><img src="https://img.shields.io/badge/Keybase-000000?style=for-the-badge&logo=keybase&logoColor=white" alt="Keybase" /></a>
