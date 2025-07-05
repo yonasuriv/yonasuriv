@@ -40,6 +40,7 @@ align="right">
   <a href="https://keybase.io/yonasuriv" title="Key Base @yonasuriv"><img src="https://img.shields.io/badge/Keybase-000000?style=for-the-badge&logo=keybase&logoColor=white" alt="Keybase" /></a>
   <a href="https://profile.codersrank.io/user/yonasuriv/" title="Coders Rank @yonasuriv"><img src="https://img.shields.io/badge/CodersRank-000000?style=for-the-badge&logo=codersrank&logoColor=white" alt="CodersRank" /></a>
   <a href="https://app.hackthebox.com/profile/780424" title="Hack The Box @yonasuriv"><img src="https://img.shields.io/badge/HackTheBox-000000?style=for-the-badge&logo=Hack%20The%20Box&logoColor=white" alt="Hack The Box" /></a>
+  <a href="https://huggingface.co/yonasuriv" title="Hugging Face @yonasuriv"><img src="https://img.shields.io/badge/HuggingFace-000000?style=for-the-badge&logo=huggingface&logoColor=white" alt="HuggingFace" /></a>
     <!-- [<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">](https://github.com/yonasuriv) -->
     <!-- [<img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">](https://www.instagram.com/) -->  </kbd>
 </p>
