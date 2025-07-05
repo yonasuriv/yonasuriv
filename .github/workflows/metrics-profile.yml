@@ -26,7 +26,7 @@ jobs:
 
     steps:
       - name: Base
-        uses: yonasuriv/metrics@latest
+        uses: lowlighter/metrics@latest
         with:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
@@ -88,7 +88,7 @@ jobs:
 
       - name: Achievements
       # https://github.com/lowlighter/metrics@latest/blob/master/source/plugins/achievements/README.md
-        uses: yonasuriv/metrics@latest
+        uses: lowlighter/metrics@latest
         with:
           filename: source/plugins/achievements-detailed.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -104,7 +104,7 @@ jobs:
 
       # https://github.com/lowlighter/metrics@latest/blob/master/source/plugins/languages/README.md
       - name: Programming Languages
-        uses: yonasuriv/metrics@latest
+        uses: lowlighter/metrics@latest
         with:
           filename: source/plugins/languages.indepth.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -126,7 +126,7 @@ jobs:
 
       # https://github.com/lowlighter/metrics@latest/blob/master/source/plugins/habits/README.md
       - name: Habits
-        uses: yonasuriv/metrics@latest
+        uses: lowlighter/metrics@latest
         with:
           filename: source/plugins/habits.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -141,17 +141,17 @@ jobs:
 
       # https://github.com/lowlighter/metrics@latest/blob/master/source/plugins/repositories/README.md
       - name: Featured Repositories
-        uses: yonasuriv/metrics@latest
+        uses: lowlighter/metrics@latest
         with:
           filename: source/plugins/featured.repos.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_repositories: yes
-          plugin_repositories_featured: yonasuriv/datasonda, yonasuriv/panicsonda, yonasuriv/stringshark, yonasuriv/metrics@latest
+          plugin_repositories_featured: yonasuriv/datasonda, yonasuriv/panicsonda, yonasuriv/stringshark, lowlighter/metrics@latest
 
       # https://github.com/lowlighter/metrics@latest/blob/master/source/plugins/stargazers/README.md
       - name: Stargazers
-        uses: yonasuriv/metrics@latest
+        uses: lowlighter/metrics@latest
         with:
           filename: source/plugins/stars.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -161,7 +161,7 @@ jobs:
 
       # https://github.com/lowlighter/metrics@latest/blob/master/source/plugins/stars/README.md
       - name: Starred Topics
-        uses: yonasuriv/metrics@latest
+        uses: lowlighter/metrics@latest
         with:
           filename: source/plugins/starred.topics.svg
           token: NOT_NEEDED
@@ -173,7 +173,7 @@ jobs:
 
       # # https://github.com/lowlighter/metrics@latest/blob/master/source/plugins/calendar/README.md
       # - name: Contributions Calendar
-      #   uses: yonasuriv/metrics@latest
+      #   uses: lowlighter/metrics@latest
       #   with:
       #     filename: source/plugins/contributions-half.svg
       #     token: ${{ secrets.METRICS_TOKEN }}
@@ -183,7 +183,7 @@ jobs:
 
       # - name: Traffic
       # # https://github.com/lowlighter/metrics@latest/blob/master/source/plugins/traffic/README.md
-      #   uses: yonasuriv/metrics@latest
+      #   uses: lowlighter/metrics@latest
       #   with:
       #     filename: source/plugins/traffic.svg
       #     token: ${{ secrets.METRICS_TOKEN }}
@@ -192,7 +192,7 @@ jobs:
 
       # # https://github.com/lowlighter/metrics@latest/blob/master/source/plugins/lines/README.md
       # - name: Lines
-      #   uses: yonasuriv/metrics@latest
+      #   uses: lowlighter/metrics@latest
       #   with:
       #     filename: source/plugins/lines.svg
       #     token: ${{ secrets.METRICS_TOKEN }}
