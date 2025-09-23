@@ -18,8 +18,6 @@ updates:
     # Auto-approve minor and patch updates
     open-pull-requests-limit: 10
     # Add reviewers if you want manual approval
-    reviewers:
-      - "yonasuriv"
     # Add commit message prefix
     commit-message:
       prefix: "deps"
