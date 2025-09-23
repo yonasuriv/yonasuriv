@@ -1,24 +1,26 @@
-name: Update Developer Card
+name: Dependabot
 
-on:
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-  schedule:
-    # schedule: [{cron: "0 16 * * *"}]
-    - cron: "0 0 * * *"
-jobs:
-  devcard:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - name: Update DevCard
-        uses: dailydotdev/action-devcard@3.0.0
-        with:
-          user_id: ${{ secrets.DEVCARD_ID }}
-          commit_message: "chore: update ${filename}"
+version: 2
 
-      # - name: Remove Artifacts
-      #  run: mv "/tmp/devcard.png" "/source/plugins/devcard.png"
+updates:
+  # Maintain dependencies for GitHub Actions
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: "daily"
+      time: "04:00"
+      timezone: "Europe/Copenhagen"
+    # Group all GitHub Actions updates into a single PR
+    groups:
+      github-actions:
+        patterns:
+          - "*"
+    # Auto-approve minor and patch updates
+    open-pull-requests-limit: 10
+    # Add reviewers if you want manual approval
+    reviewers:
+      - "yonasuriv"
+    # Add commit message prefix
+    commit-message:
+      prefix: "deps"
+      include: "scope"
