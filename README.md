@@ -13,19 +13,20 @@ align="right">
 <!-- ABOUT -->
 
 <div align="center">
-  Hey there! I'm all about tech, AI, and keeping digital spaces safe. 
+  Tech, AI, and digital safety are my domain.<br>
+  I'm drawn to the intersection of innovation and security where creative thinking meets real-world responsibility.<br><br>
+    
+  Curiosity drives everything I do.<br>
+  Growth, technical and personal, is non-negotiable.
   
-  **Adrenaline** is my middle name and **innovation** and **creativity** are my playgrounds.\
-  What gets me going? **Curiosity**. 
+  Imagination is not escapism. It is a blueprint. What you can model, you can engineer.\
+  That mindset is how we turn ideas into infrastructure and vision into impact. \
+  Always grounded in privacy and freedom. These are not features, they are foundations. \
+  That's how we shape the future.
   
-  I thrive on discovering new adventures and experiences, and more if they involve challenges.\
-  Growing as a professional and as a person is what I'm about.
-  
-  I believe that fiction surpasses reality, and what you can imagine, you can create.\
-  And that's the key to make a positive impact in the world, to shape the future. \
-  Always under the foundations of **privacy** and **freedom**.
-  <div align=""> I love being a part of something bigger, especially when it comes to bringing ideas to life.<br>
-  Let's make things happen.<br></div>
+  <div align="">I’m at my best when contributing to something larger than myself, <br>
+  especially when it comes to bringing ideas that matter to life.<br><br>
+  Let's build something worth building.<br></div>
 </div>
 
  <br>
