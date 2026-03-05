@@ -29,7 +29,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           # Your GitHub token
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ github.token }}
           #
           # The following scopes are required:
           #
@@ -47,7 +47,7 @@ jobs:
 
           # Options
           user: yonasuriv
-          filename: source/plugins/metrics-full.svg
+          filename: source/plugins/metrics.svg
           template: classic
           base: activity, community, repositories, metadata
           # base: header, activity, community, repositories, metadata
@@ -91,7 +91,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: source/plugins/achievements-detailed.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ github.token }}
           base: ""
           plugin_achievements: yes
           plugin_achievements_display: detailed # can be detailed or compact
@@ -107,7 +107,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: source/plugins/languages.indepth.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ github.token }}
           base: ""
           plugin_languages: yes
           plugin_languages_limit: 8
@@ -129,7 +129,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: source/plugins/habits.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ github.token }}
           base: ""
           plugin_habits: yes
           plugin_habits_charts_type: classic
@@ -144,17 +144,17 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: source/plugins/featured.repos.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ github.token }}
           base: ""
           plugin_repositories: yes
-          plugin_repositories_featured: yonasuriv/datasonda, yonasuriv/panicsonda, yonasuriv/stringshark, lowlighter/metrics@latest
+          plugin_repositories_featured: yonasuriv/datasonda, yonasuriv/panicsonda, yonasuriv/stringshark, yonasuriv/yonasuriv
 
       # https://github.com/lowlighter/metrics@latest/blob/master/source/plugins/stargazers/README.md
       - name: Stargazers
         uses: lowlighter/metrics@latest
         with:
           filename: source/plugins/stars.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ github.token }}
           base: ""
           plugin_stargazers: yes
           plugin_stargazers_charts: no
@@ -164,7 +164,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: source/plugins/starred.topics.svg
-          token: NOT_NEEDED
+          token: ${{ github.token }}
           base: ""
           plugin_topics: yes
           # plugin_topics_limit: 0
