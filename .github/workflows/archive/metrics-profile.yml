@@ -47,7 +47,7 @@ jobs:
 
           # Options
           user: yonasuriv
-          filename: source/plugins/metrics.svg
+          filename: src/metrics/dynamic/metrics.svg
           template: classic
           base: activity, community, repositories, metadata
           # base: header, activity, community, repositories, metadata
@@ -90,7 +90,7 @@ jobs:
       # https://github.com/lowlighter/metrics@latest/blob/master/source/plugins/achievements/README.md
         uses: lowlighter/metrics@latest
         with:
-          filename: source/plugins/achievements-detailed.svg
+          filename: src/metrics/dynamic/achievements.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_achievements: yes
@@ -106,7 +106,7 @@ jobs:
       - name: Programming Languages
         uses: lowlighter/metrics@latest
         with:
-          filename: source/plugins/languages.indepth.svg
+          filename: src/metrics/dynamic/languages.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_languages: yes
@@ -128,7 +128,7 @@ jobs:
       - name: Habits
         uses: lowlighter/metrics@latest
         with:
-          filename: source/plugins/habits.svg
+          filename: src/metrics/dynamic/habits.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_habits: yes
@@ -143,7 +143,7 @@ jobs:
       - name: Featured Repositories
         uses: lowlighter/metrics@latest
         with:
-          filename: source/plugins/featured.repos.svg
+          filename: src/metrics/dynamic/featured-repos.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_repositories: yes
@@ -153,7 +153,7 @@ jobs:
       - name: Stargazers
         uses: lowlighter/metrics@latest
         with:
-          filename: source/plugins/stars.svg
+          filename: src/metrics/dynamic/stars.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_stargazers: yes
@@ -163,7 +163,7 @@ jobs:
       - name: Starred Topics
         uses: lowlighter/metrics@latest
         with:
-          filename: source/plugins/starred.topics.svg
+          filename: src/metrics/dynamic/starred.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_topics: yes

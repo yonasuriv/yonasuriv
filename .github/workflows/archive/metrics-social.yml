@@ -43,7 +43,7 @@ jobs:
           
           # Options
           user: yonasuriv
-          filename: source/plugins/about.svg
+          filename: src/metrics/dynamic/about.svg
           template: classic
           base: activity, community, repositories, metadata
           base_indepth: yes
@@ -59,7 +59,7 @@ jobs:
         continue-on-error: true
         uses: lowlighter/metrics@latest
         with:
-          filename: source/plugins/profile.mbti.svg # metrics.plugin.16personalities.svg
+          filename: src/metrics/dynamic/mbti.svg # metrics.plugin.16personalities.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_16personalities: yes
@@ -71,7 +71,7 @@ jobs:
       # https://github.com/yonasuriv/metrics/blob/master/source/plugins/steam/README.md
         uses: lowlighter/metrics@latest
         with:
-          filename: source/plugins/profile.steam-base.svg
+          filename: src/metrics/dynamic/steam.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
@@ -86,7 +86,7 @@ jobs:
       # https://github.com/yonasuriv/metrics/blob/master/source/plugins/music/README.md
         uses: lowlighter/metrics@latest
         with:
-          filename: source/plugins/profile.spotify.svg
+          filename: src/metrics/dynamic/spotify.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_music: yes
@@ -103,7 +103,7 @@ jobs:
       # https://github.com/yonasuriv/metrics/blob/master/source/plugins/rss/README.md
         uses: lowlighter/metrics@latest
         with:
-          filename: source/plugins/rss.feed.svg
+          filename: src/metrics/dynamic/rss.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_rss: yes
