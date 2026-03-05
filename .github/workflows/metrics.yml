@@ -1,0 +1,297 @@
+# Merged from metrics-profile.yml and metrics-social.yml
+# without removing or altering existing workflow files.
+
+name: Update Metrics
+
+on:
+  # Think about the planet, no need to update stats too frequently
+  schedule: [{cron: "0 16 * * *"}]
+
+  # Schedule updates (every 3 hours)
+  # schedule: [{cron: "0 */3 * * *"}]
+
+  # Lines below let you run workflow manually and on each commit
+  workflow_dispatch:
+  push: {branches: ["master", "main"]}
+
+jobs:
+  github-metrics-profile:
+    runs-on: ubuntu-latest
+    environment:
+      name: Profile
+    permissions:
+      contents: write
+
+    steps:
+      - name: Base
+        uses: lowlighter/metrics@latest
+        with:
+          # Your GitHub token
+          token: ${{ secrets.METRICS_TOKEN }}
+          #
+          # The following scopes are required:
+          #
+          #  - public_access (default scope)
+          #  - read:user
+          #  - read:org
+          #  - repo
+          #
+          #   The following additional scopes may be required:
+          #
+          #  - read:org      (for organization related metrics)
+          #  - read:user     (for user related data)
+          #  - read:packages (for some packages related data)
+          #  - repo          (optional, if you want to include private repositories)
+
+          # Options
+          user: yonasuriv
+          filename: src/metrics/dynamic/metrics.svg
+          template: classic
+          base: activity, community, repositories, metadata
+          # base: header, activity, community, repositories, metadata
+          base_indepth: yes
+          config_octicon: yes
+          config_order: base:repositories, metadata, base:habits, base:languages, community
+          # config_order: base:header, base:repositories, metadata, base:habits, base:languages, community
+          config_timezone: Europe/Copenhagen
+
+          # plugin_gists: no
+
+          # plugin_activity: no
+          # plugin_activity_days: 14
+          # plugin_activity_filter: all
+          # plugin_activity_limit: 5
+          # plugin_activity_load: 300
+          # plugin_activity_visibility: all
+
+          repositories_forks: yes
+
+          plugin_lines: yes
+          plugin_lines_sections: base
+          plugin_lines_history_limit: 1
+          plugin_lines_repositories_limit: 4
+
+          plugin_habits: yes
+          plugin_habits_charts_type: classic
+          plugin_habits_days: 360
+          plugin_habits_facts: yes
+          plugin_habits_from: 2000
+          plugin_habits_languages_limit: 8
+          plugin_habits_languages_threshold: 0%
+
+          plugin_traffic: yes
+
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+
+      - name: Achievements
+      # https://github.com/lowlighter/metrics@latest/blob/master/src/metrics/dynamic/achievements/README.md
+        uses: lowlighter/metrics@latest
+        with:
+          filename: src/metrics/dynamic/achievements.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_achievements: yes
+          plugin_achievements_display: detailed # can be detailed or compact
+          plugin_achievements_secrets: yes
+          plugin_achievements_limit: 7 # 0 to disable
+          plugin_achievements_threshold: C
+          # plugin_achievements_threshold: X # Displays achievements not yet unlocked
+          # plugin_achievements_ignored:
+          # Options: polyglot, stargazer, sponsor, deployer, member, maintainer, developer, scripter, packager, explorer, infographile, manager
+
+      # https://github.com/lowlighter/metrics@latest/blob/master/src/metrics/dynamic/languages/README.md
+      - name: Programming Languages
+        uses: lowlighter/metrics@latest
+        with:
+          filename: src/metrics/dynamic/languages.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_languages: yes
+          plugin_languages_limit: 8
+          plugin_languages_details: bytes-size, percentage
+          # plugin_languages_ignored: html, css
+          plugin_languages_threshold: 0%
+
+          plugin_languages_indepth: false
+          # plugin_languages_sections: recently-used
+          # plugin_languages_categories: markup, programming
+          # plugin_languages_recent_days: 14
+          # plugin_languages_recent_load: 300
+          # plugin_languages_recent_categories: markup, programming
+          # plugin_languages_analysis_timeout: 30
+          # plugin_languages_analysis_timeout_repositories: 5
+
+      # https://github.com/lowlighter/metrics@latest/blob/master/src/metrics/dynamic/habits/README.md
+      - name: Habits
+        uses: lowlighter/metrics@latest
+        with:
+          filename: src/metrics/dynamic/habits.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_habits: yes
+          plugin_habits_charts_type: classic
+          plugin_habits_days: 360
+          plugin_habits_facts: yes
+          plugin_habits_from: 2000
+          plugin_habits_languages_limit: 8
+          plugin_habits_languages_threshold: 0%
+
+      # https://github.com/lowlighter/metrics@latest/blob/master/src/metrics/dynamic/repositories/README.md
+      - name: Featured Repositories
+        uses: lowlighter/metrics@latest
+        with:
+          filename: src/metrics/dynamic/featured-repos.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_repositories: yes
+          plugin_repositories_featured: yonasuriv/datasonda, yonasuriv/panicsonda, yonasuriv/stringshark, yonasuriv/yonasuriv
+
+      # https://github.com/lowlighter/metrics@latest/blob/master/src/metrics/dynamic/stargazers/README.md
+      - name: Stargazers
+        uses: lowlighter/metrics@latest
+        with:
+          filename: src/metrics/dynamic/stars.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_stargazers: yes
+          plugin_stargazers_charts: no
+
+      # https://github.com/lowlighter/metrics@latest/blob/master/src/metrics/dynamic/stars/README.md
+      - name: Starred Topics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: src/metrics/dynamic/starred-topics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_topics: yes
+          # plugin_topics_limit: 0
+          plugin_topics_sort: stars # can be stars, activity, starred (date) or random
+          plugin_topics_mode: icons # can be icons or labels
+
+      # # https://github.com/lowlighter/metrics@latest/blob/master/src/metrics/dynamic/calendar/README.md
+      # - name: Contributions Calendar
+      #   uses: lowlighter/metrics@latest
+      #   with:
+      #     filename: src/metrics/dynamic/contributions-half.svg
+      #     token: ${{ secrets.METRICS_TOKEN }}
+      #     base: ""
+      #     plugin_isocalendar: yes
+      #     plugin_isocalendar_duration: half-year # can be half-year or full-year
+
+      # - name: Traffic
+      # # https://github.com/lowlighter/metrics@latest/blob/master/src/metrics/dynamic/traffic/README.md
+      #   uses: lowlighter/metrics@latest
+      #   with:
+      #     filename: src/metrics/dynamic/traffic.svg
+      #     token: ${{ secrets.METRICS_TOKEN }}
+      #     base: ""
+      #     plugin_traffic: yes
+
+      # # https://github.com/lowlighter/metrics@latest/blob/master/src/metrics/dynamic/lines/README.md
+      # - name: Lines
+      #   uses: lowlighter/metrics@latest
+      #   with:
+      #     filename: src/metrics/dynamic/lines.svg
+      #     token: ${{ secrets.METRICS_TOKEN }}
+      #     base: ""
+      #     plugin_lines: yes
+      #     plugin_lines_sections: base
+      #     plugin_lines_history_limit: 1
+      #     plugin_lines_repositories_limit: 4
+
+  github-metrics-social:
+    runs-on: ubuntu-latest
+    environment:
+      name: Profile
+    permissions:
+      contents: write
+
+    steps:
+      - name: General Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          # Your GitHub token
+          # The following scopes are required:
+          #  - public_access (default scope)
+          #  - read:user
+          #  - read:org
+          #  - repo
+          # The following additional scopes may be required:
+          #  - read:org      (for organization related metrics)
+          #  - read:user     (for user related data)
+          #  - read:packages (for some packages related data)
+          #  - repo          (optional, if you want to include private repositories)
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          # Options
+          user: yonasuriv
+          filename: src/metrics/dynamic/about.svg
+          template: classic
+          base: activity, community, repositories, metadata
+          base_indepth: yes
+          config_octicon: yes
+          config_order: base:repositories, metadata, base:habits, base:languages, community
+          config_timezone: Europe/Copenhagen
+
+          plugin_introduction: yes
+          plugin_introduction_title: yes
+
+      - name: MBTI Personality Profile
+      # https://github.com/yonasuriv/metrics/blob/master/src/metrics/dynamic/community/16personalities/README.md
+        continue-on-error: true
+        uses: lowlighter/metrics@latest
+        with:
+          filename: src/metrics/dynamic/mbti.svg # metrics.plugin.16personalities.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_16personalities: yes
+          plugin_16personalities_scores: yes
+          plugin_16personalities_sections: personality, profile, traits
+          plugin_16personalities_url: https://www.16personalities.com/profiles/b293e70d24e12
+
+      - name: Steam Profile
+      # https://github.com/yonasuriv/metrics/blob/master/src/metrics/dynamic/steam/README.md
+        uses: lowlighter/metrics@latest
+        with:
+          filename: src/metrics/dynamic/steam.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
+          plugin_steam: yes
+          plugin_steam_user: ${{ secrets.STEAM_USER }} # 0
+          plugin_steam_sections: player # can be player, most-played, recently-played
+          plugin_steam_games_limit: 8
+          plugin_steam_recent_games_limit: 0
+          plugin_steam_achievements_limit: 0
+
+      - name: Spotify Profile
+      # https://github.com/yonasuriv/metrics/blob/master/src/metrics/dynamic/music/README.md
+        uses: lowlighter/metrics@latest
+        with:
+          filename: src/metrics/dynamic/spotify.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_music: yes
+          plugin_music_provider: spotify
+          # plugin_music_token: ${{ secrets.SPOTIFY_TOKENS }}
+          # plugin_music_user:
+          plugin_music_limit: 4
+          plugin_music_mode: recent # can be playlist (random track from url), recent or top (artists/tracks)
+          plugin_music_top_type: tracks # can be artists or tracks
+          plugin_music_time_range: medium # can be short (1 month), medium (6 months) or long (all time)
+          plugin_music_playlist: https://open.spotify.com/embed/playlist/6VaxKvULieRunSsPwq1BVJ
+
+      - name: RSS Feeds
+      # https://github.com/yonasuriv/metrics/blob/master/src/metrics/dynamic/rss/README.md
+        uses: lowlighter/metrics@latest
+        with:
+          filename: src/metrics/dynamic/rss.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_rss: yes
+          plugin_rss_limit: 7
+          plugin_rss_source: https://www.bleepingcomputer.com/feed
+
+      - name: Remove Artifacts
+        run: rm -rf "/github-metrics.svg"
