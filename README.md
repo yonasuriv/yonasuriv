@@ -116,12 +116,12 @@ align="right">
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="width: 50%; text-align: right; vertical-align: top; padding: 10px;">
-      <img src="https://raw.githubusercontent.com/yonasuriv/yonasuriv/refs/heads/main/src/metrics/dynamic/metrics.svg" 
+      <img src="https://raw.githubusercontent.com/yonasuriv/yonasuriv/refs/heads/main/src/metrics/static/metrics.svg" 
            alt="Metrics" 
            style="width: 100%; max-width: 100%;">
     </td>
     <td style="width: 50%; text-align: center; vertical-align: top; padding: 10px;">
-        <img src="https://raw.githubusercontent.com/yonasuriv/yonasuriv/refs/heads/main/src/metrics/dynamic/achievements.svg" 
+        <img src="https://raw.githubusercontent.com/yonasuriv/yonasuriv/refs/heads/main/src/metrics/static/achievements.svg" 
            alt="Achievements" 
            style="width: 100%; max-width: 100%; margin-top: 10px;">
     </td>
@@ -132,12 +132,12 @@ align="right">
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="width: 50%; text-align: right; vertical-align: top; padding: 10px;">
-      <img src="https://raw.githubusercontent.com/yonasuriv/yonasuriv/refs/heads/main/src/metrics/dynamic/habits.svg" 
+      <img src="https://raw.githubusercontent.com/yonasuriv/yonasuriv/refs/heads/main/src/metrics/static/habits.svg" 
            alt="Coding Habits" 
            style="width: 100%; max-width: 100%;">
     </td>
     <td style="width: 50%; text-align: left; vertical-align: top; padding: 10px;">
-        <img src="https://raw.githubusercontent.com/yonasuriv/yonasuriv/refs/heads/main/src/metrics/dynamic/languages.svg" 
+        <img src="https://raw.githubusercontent.com/yonasuriv/yonasuriv/refs/heads/main/src/metrics/static/languages.svg" 
            alt="Programming Languages" 
            style="width: 100%; max-width: 100%; margin-top: 10px;">
     </td>
@@ -148,12 +148,12 @@ align="right">
 <table style="width: 100%;">
   <tr>
     <td style="width: 50%;">
-      <img src="https://raw.githubusercontent.com/yonasuriv/yonasuriv/refs/heads/main/src/metrics/dynamic/rss.svg" 
+      <img src="https://raw.githubusercontent.com/yonasuriv/yonasuriv/refs/heads/main/src/metrics/static/rss.svg" 
            alt="RSS Feeds" 
            width="100%">
     </td>
     <td style="width: 50%; ">
-      <img src="https://raw.githubusercontent.com/yonasuriv/yonasuriv/refs/heads/main/src/metrics/dynamic/featured-repos.svg" 
+      <img src="https://raw.githubusercontent.com/yonasuriv/yonasuriv/refs/heads/main/src/metrics/static/featured-repos.svg" 
            alt="Featured Repositories" 
            width="100%">
     </td>
@@ -180,14 +180,14 @@ align="right">
 
 <!-- Exp 
 <image 
-src="https://raw.githubusercontent.com/yonasuriv/yonasuriv/refs/heads/main/src/metrics/dynamic/stars.svg"
+src="https://raw.githubusercontent.com/yonasuriv/yonasuriv/refs/heads/main/src/metrics/static/stars.svg"
 alt="Stargazers"
 width=""
 href=""
 align="right">
 
 <image 
-src="https://raw.githubusercontent.com/yonasuriv/yonasuriv/refs/heads/main/src/metrics/dynamic/spotify.svg"
+src="https://raw.githubusercontent.com/yonasuriv/yonasuriv/refs/heads/main/src/metrics/static/spotify.svg"
 alt="Spotify"
 width=""
 href=""
