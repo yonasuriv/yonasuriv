@@ -139,7 +139,7 @@ align="right">
     <td style="width: 50%; text-align: left; vertical-align: top; padding: 10px;">
         <img src="https://raw.githubusercontent.com/yonasuriv/yonasuriv/refs/heads/main/src/metrics/static/languages.svg" 
            alt="Programming Languages" 
-           style="width: 100%; max-width: 100%; margin-top: 10px;">
+           style="display: block; width: 100%; max-width: 100%;">
     </td>
   </tr>
 </table>
