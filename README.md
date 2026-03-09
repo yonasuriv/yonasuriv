@@ -19,15 +19,7 @@
 
 <br>
 
-<!-- SOCIAL LINKS-->
-<p align="center">
-  <kbd>
-    <a href="https://profile.codersrank.io/user/yonasuriv/"><img src="https://img.shields.io/badge/CodersRank-000000?style=for-the-badge&logo=codersrank&logoColor=white" /></a>
-    <a href="https://app.hackthebox.com/profile/780424"><img src="https://img.shields.io/badge/HackTheBox-000000?style=for-the-badge&logo=Hack%20The%20Box&logoColor=white" /></a>
-    <a href="https://huggingface.co/yonasuriv"><img src="https://img.shields.io/badge/HuggingFace-000000?style=for-the-badge&logo=huggingface&logoColor=white" /></a>
-    <!-- <a href="https://yonasuriv.tumblr.com"><img src="https://img.shields.io/badge/Tumblr-000000?style=for-the-badge&logo=tumblr&logoColor=white" /></a> -->
-  </kbd>
-</p>
+<!-- SOCIAL LINKS -->
 <p align="center">
   <kbd>
     <a href="mailto:yonasuriv@pm.me"><img src="https://img.shields.io/badge/Mail-000000?style=for-the-badge&logo=protonmail&logoColor=white" /></a>
@@ -37,6 +29,22 @@
     <a href="https://keybase.io/yonasuriv"><img src="https://img.shields.io/badge/Keybase-000000?style=for-the-badge&logo=keybase&logoColor=white" /></a>
   </kbd>
 </p>
+
+<p align="center">
+  <kbd>
+    <a href="https://profile.codersrank.io/user/yonasuriv/"><img src="https://img.shields.io/badge/CodersRank-000000?style=for-the-badge&logo=codersrank&logoColor=white" /></a>
+    <a href="https://app.hackthebox.com/profile/780424"><img src="https://img.shields.io/badge/HackTheBox-000000?style=for-the-badge&logo=Hack%20The%20Box&logoColor=white" /></a>
+    <a href="https://huggingface.co/yonasuriv"><img src="https://img.shields.io/badge/HuggingFace-000000?style=for-the-badge&logo=huggingface&logoColor=white" /></a>
+    <!-- <a href="https://yonasuriv.tumblr.com"><img src="https://img.shields.io/badge/Tumblr-000000?style=for-the-badge&logo=tumblr&logoColor=white" /></a> -->
+  </kbd>
+</p>
+
+<!-- SPOTIFY -->
+<div align="center">
+
+  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=11165416666&cover_image=true&theme=novatorem&show_offline=false&background_color=030303&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+  
+</div>
 
 <!--
 <div align="center">
