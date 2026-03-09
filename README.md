@@ -104,7 +104,7 @@ align="right">
 <!-- SPOTIFY -->
 <div align="center">
 
-  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=11165416666&cover_image=true&theme=novatorem&show_offline=false&background_color=030303&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=11165416666&cover_image=true&theme=novatorem&show_offline=false&background_color=030303&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=true)](https://open.spotify.com/user/11165416666)
   
 </div>
 
