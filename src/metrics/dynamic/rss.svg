@@ -20,7 +20,16 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Microsoft brings phishing-resistant Windows sign-ins via Entra passkeys</div>
+                                <div class="title">Meta adds new WhatsApp, Facebook, and Messenger anti-scam tools</div>
+                                <div class="date">11 Mar 2026</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">New ‘BlackSanta’ EDR killer spotted targeting HR departments</div>
                                 <div class="date">10 Mar 2026</div>
                             </div>
                         </div>
@@ -29,7 +38,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">New KadNap botnet hijacks ASUS routers to fuel cybercrime proxy network</div>
+                                <div class="title">New BeatBanker Android malware poses as Starlink app to hijack devices</div>
                                 <div class="date">10 Mar 2026</div>
                             </div>
                         </div>
@@ -38,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The New Turing Test: How Threats Use Geometry to Prove 'Humanness'</div>
+                                <div class="title">New 'Zombie ZIP' technique lets malware slip past security tools</div>
                                 <div class="date">10 Mar 2026</div>
                             </div>
                         </div>
@@ -47,7 +56,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">CISA: Recently patched Ivanti EPM flaw now actively exploited</div>
+                                <div class="title">Microsoft releases Windows 10 KB5078885 extended security update</div>
                                 <div class="date">10 Mar 2026</div>
                             </div>
                         </div>
@@ -56,7 +65,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Microsoft to enable Windows hotpatch security updates by default</div>
+                                <div class="title">Microsoft March 2026 Patch Tuesday fixes 2 zero-days, 79 flaws</div>
                                 <div class="date">10 Mar 2026</div>
                             </div>
                         </div>
@@ -65,17 +74,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">APT28 hackers deploy customized variant of Covenant open-source tool</div>
+                                <div class="title">Windows 11 KB5079473 &amp; KB5078883 cumulative updates released</div>
                                 <div class="date">10 Mar 2026</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Microsoft Teams phishing targets employees with A0Backdoor malware</div>
-                                <div class="date">9 Mar 2026</div>
                             </div>
                         </div>
                     </section>
