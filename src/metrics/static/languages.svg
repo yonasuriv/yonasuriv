@@ -54,35 +54,35 @@
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#89e051" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
                                 Shell
                             </div>
-                            <small><div>135.5 MB</div><div>23.36%</div></small>
+                            <small><div>45.16 MB</div><div>23.36%</div></small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
                                 TypeScript
                             </div>
-                            <small><div>88.2 MB</div><div>15.21%</div></small>
+                            <small><div>29.43 MB</div><div>15.21%</div></small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
                                 Python
                             </div>
-                            <small><div>59.1 MB</div><div>10.19%</div></small>
+                            <small><div>19.72 MB</div><div>10.19%</div></small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#dea584" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
                                 Rust
                             </div>
-                            <small><div>27.0 MB</div><div>4.66%</div></small>
+                            <small><div>9.02 MB</div><div>4.66%</div></small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#ec915c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
                                 Zig
                             </div>
-                            <small><div>25.7 MB</div><div>4.43%</div></small>
+                            <small><div>8.56 MB</div><div>4.43%</div></small>
                         </div>
                     </section>
                     <section>
@@ -91,35 +91,35 @@
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#012456" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
                                 PowerShell
                             </div>
-                            <small><div>92.4 MB</div><div>15.93%</div></small>
+                            <small><div>30.83 MB</div><div>15.93%</div></small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
                                 JavaScript
                             </div>
-                            <small><div>75.4 MB</div><div>13.00%</div></small>
+                            <small><div>25.13 MB</div><div>13.00%</div></small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#00add8" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
                                 Go
                             </div>
-                            <small><div>28.5 MB</div><div>4.91%</div></small>
+                            <small><div>9.56 MB</div><div>4.91%</div></small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#555555" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
                                 C
                             </div>
-                            <small><div>26.3 MB</div><div>4.53%</div></small>
+                            <small><div>8.76 MB</div><div>4.53%</div></small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#3D6117" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
                                 TeX
                             </div>
-                            <small><div>21.9 MB</div><div>3.78%</div></small>
+                            <small><div>7.35 MB</div><div>3.78%</div></small>
                         </div>
                     </section>
                 </div>
