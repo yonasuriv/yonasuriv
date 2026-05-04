@@ -143,7 +143,7 @@ align="right">
 <p align="center">
   <kbd>
     <a href="https://profile.codersrank.io/user/yonasuriv/"><img src="https://img.shields.io/badge/CodersRank-000000?style=for-the-badge&logo=codersrank&logoColor=white" /></a>
-    <a href="https://app.hackthebox.com/profile/780424"><img src="https://img.shields.io/badge/HackTheBox-000000?style=for-the-badge&logo=Hack%20The%20Box&logoColor=white" /></a>
+    <a href="https://app.hackthebox.com/public/users/780424"><img src="https://img.shields.io/badge/HackTheBox-000000?style=for-the-badge&logo=Hack%20The%20Box&logoColor=white" /></a>
     <a href="https://huggingface.co/yonasuriv"><img src="https://img.shields.io/badge/HuggingFace-000000?style=for-the-badge&logo=huggingface&logoColor=white" /></a>
     <!-- <a href="https://yonasuriv.tumblr.com"><img src="https://img.shields.io/badge/Tumblr-000000?style=for-the-badge&logo=tumblr&logoColor=white" /></a> -->
   </kbd>
