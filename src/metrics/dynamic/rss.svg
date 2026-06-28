@@ -20,6 +20,15 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
+                                <div class="title">Data breach exposes up to 14.2 million email logins at six ISPs</div>
+                                <div class="date">28 Jun 2026</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
                                 <div class="title">Clean GitHub repo tricks AI coding agents into running malware</div>
                                 <div class="date">27 Jun 2026</div>
                             </div>
@@ -67,15 +76,6 @@
                             <div class="infos">
                                 <div class="title">Your First GRC Agent: A Red Teamer's Walkthrough</div>
                                 <div class="date">26 Jun 2026</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">Anthropic is testing desktop-like Claude Cowork for mobile</div>
-                                <div class="date">25 Jun 2026</div>
                             </div>
                         </div>
                     </section>
